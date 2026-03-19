@@ -186,10 +186,10 @@ TextureImporter:
       name: KnightRun_0
       rect:
         serializedVersion: 2
-        x: 161
-        y: 1752
-        width: 312
-        height: 287
+        x: 0
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,10 +208,10 @@ TextureImporter:
       name: KnightRun_1
       rect:
         serializedVersion: 2
-        x: 826
-        y: 1739
-        width: 305
-        height: 296
+        x: 662
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: KnightRun_2
       rect:
         serializedVersion: 2
-        x: 1492
-        y: 1721
-        width: 299
-        height: 310
+        x: 1324
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: KnightRun_3
       rect:
         serializedVersion: 2
-        x: 2158
-        y: 1713
-        width: 297
-        height: 310
+        x: 1986
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: KnightRun_4
       rect:
         serializedVersion: 2
-        x: 2802
-        y: 1721
-        width: 345
-        height: 279
+        x: 2648
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: KnightRun_5
       rect:
         serializedVersion: 2
-        x: 185
-        y: 1171
-        width: 290
-        height: 284
+        x: 0
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: KnightRun_6
       rect:
         serializedVersion: 2
-        x: 849
-        y: 1170
-        width: 295
-        height: 278
+        x: 662
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: KnightRun_7
       rect:
         serializedVersion: 2
-        x: 1499
-        y: 1172
-        width: 316
-        height: 281
+        x: 1324
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: KnightRun_8
       rect:
         serializedVersion: 2
-        x: 2147
-        y: 1174
-        width: 340
-        height: 285
+        x: 1986
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: KnightRun_9
       rect:
         serializedVersion: 2
-        x: 2814
-        y: 1172
-        width: 325
-        height: 287
+        x: 2648
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: KnightRun_10
       rect:
         serializedVersion: 2
-        x: 145
-        y: 632
-        width: 364
-        height: 298
+        x: 0
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: KnightRun_11
       rect:
         serializedVersion: 2
-        x: 795
-        y: 642
-        width: 382
-        height: 302
+        x: 662
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: KnightRun_12
       rect:
         serializedVersion: 2
-        x: 1449
-        y: 649
-        width: 392
-        height: 296
+        x: 1324
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: KnightRun_13
       rect:
         serializedVersion: 2
-        x: 2106
-        y: 648
-        width: 396
-        height: 293
+        x: 1986
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: KnightRun_14
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 634
-        width: 308
-        height: 292
+        x: 2648
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: KnightRun_15
       rect:
         serializedVersion: 2
-        x: 119
-        y: 85
-        width: 396
-        height: 304
+        x: 0
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +538,20 @@ TextureImporter:
       name: KnightRun_16
       rect:
         serializedVersion: 2
-        x: 785
-        y: 75
-        width: 391
-        height: 306
+        x: 662
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2ae8035af0ce7e9f0800000000000000
-      internalID: -439122886705246558
+      spriteID: f608b0ceec391454daee03f9519b7f98
+      internalID: -1099060543
       vertices: []
       indices: 
       edges: []
@@ -560,20 +560,20 @@ TextureImporter:
       name: KnightRun_17
       rect:
         serializedVersion: 2
-        x: 1456
-        y: 79
-        width: 379
-        height: 283
+        x: 1324
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f20193cc808c74e70800000000000000
-      internalID: 9099461512236961839
+      spriteID: d3e6e6d3c9f9a7e42a5f417fe6e67d6e
+      internalID: -1661260055
       vertices: []
       indices: 
       edges: []
@@ -582,20 +582,20 @@ TextureImporter:
       name: KnightRun_18
       rect:
         serializedVersion: 2
-        x: 2128
-        y: 80
-        width: 364
-        height: 274
+        x: 1986
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 287bbab89c5bdcb80800000000000000
-      internalID: -8372836254975543422
+      spriteID: dd8854efd1c389b47a9f23fd8140751d
+      internalID: 1676042703
       vertices: []
       indices: 
       edges: []
@@ -604,20 +604,20 @@ TextureImporter:
       name: KnightRun_19
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 108
-        width: 309
-        height: 288
+        x: 2648
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b6cc2773e7109c250800000000000000
-      internalID: 5965300823036709995
+      spriteID: 842f786f4add84847864fbfbf1f89382
+      internalID: -704215360
       vertices: []
       indices: 
       edges: []
@@ -626,7 +626,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e04efeb15aa98d949a53071895ab0fe7
     internalID: 0
     vertices: []
     indices: 
@@ -644,10 +644,10 @@ TextureImporter:
       KnightRun_13: -7900739131186415749
       KnightRun_14: -4451529906375031223
       KnightRun_15: -7907863832760982444
-      KnightRun_16: -439122886705246558
-      KnightRun_17: 9099461512236961839
-      KnightRun_18: -8372836254975543422
-      KnightRun_19: 5965300823036709995
+      KnightRun_16: -1099060543
+      KnightRun_17: -1661260055
+      KnightRun_18: 1676042703
+      KnightRun_19: -704215360
       KnightRun_2: -6054106439150290708
       KnightRun_3: -3800790355418859373
       KnightRun_4: 4331979357671168930
