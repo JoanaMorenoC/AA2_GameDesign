@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: dd13edcc3e6a20c49a416ae7a49a290d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1918414842685603831
+    second: PrincessWalk_0
+  - first:
+      213: 7908042989694471166
+    second: PrincessWalk_1
+  - first:
+      213: 3273216251775865572
+    second: PrincessWalk_2
+  - first:
+      213: 4244400070981943645
+    second: PrincessWalk_3
+  - first:
+      213: 4101005576729167746
+    second: PrincessWalk_4
+  - first:
+      213: -6023034737936412878
+    second: PrincessWalk_5
+  - first:
+      213: 5197531083583158159
+    second: PrincessWalk_6
+  - first:
+      213: 3164476784127729546
+    second: PrincessWalk_7
+  - first:
+      213: -1339743884124361376
+    second: PrincessWalk_8
+  - first:
+      213: -6315822520620653274
+    second: PrincessWalk_9
+  - first:
+      213: 127055131797578001
+    second: PrincessWalk_10
+  - first:
+      213: -4254388878262908426
+    second: PrincessWalk_11
+  - first:
+      213: -3927534023031770072
+    second: PrincessWalk_12
+  - first:
+      213: 2040016359325184466
+    second: PrincessWalk_13
+  - first:
+      213: 8104149676376149494
+    second: PrincessWalk_14
+  - first:
+      213: -8990885147030606673
+    second: PrincessWalk_15
+  - first:
+      213: -736681398401714782
+    second: PrincessWalk_16
+  - first:
+      213: 1888092361689572745
+    second: PrincessWalk_17
+  - first:
+      213: -6142743325018876350
+    second: PrincessWalk_18
+  - first:
+      213: -2426247363091412432
+    second: PrincessWalk_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrincessWalk_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1569
+        width: 274
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbc1e92249f9a10800000000000000
+      internalID: 1918414842685603831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1564
+        width: 276
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc14553330fbd60800000000000000
+      internalID: 7908042989694471166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1567
+        width: 266
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d228b6dccc6d20800000000000000
+      internalID: 3273216251775865572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1568
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d518583706327ea30800000000000000
+      internalID: 4244400070981943645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1568
+        width: 249
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28786de08d2b9e830800000000000000
+      internalID: 4101005576729167746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1077
+        width: 240
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f467731d1e96ca0800000000000000
+      internalID: -6023034737936412878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1079
+        width: 231
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87760a9bf6512840800000000000000
+      internalID: 5197531083583158159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_7
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1077
+        width: 223
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f57e97eda7aeb20800000000000000
+      internalID: 3164476784127729546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1077
+        width: 212
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de3c02906486de0800000000000000
+      internalID: -1339743884124361376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_9
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1076
+        width: 250
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6256ef151e0b958a0800000000000000
+      internalID: -6315822520620653274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 584
+        width: 200
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1116fad18f363c100800000000000000
+      internalID: 127055131797578001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 583
+        width: 189
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f944ce1bdf55f4c0800000000000000
+      internalID: -4254388878262908426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_12
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 581
+        width: 181
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243ee17d989e79c0800000000000000
+      internalID: -3927534023031770072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 579
+        width: 183
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1309102189f4c10800000000000000
+      internalID: 2040016359325184466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_14
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 583
+        width: 259
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4ffa6139b77070800000000000000
+      internalID: 8104149676376149494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 87
+        width: 196
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faca7e23895f93380800000000000000
+      internalID: -8990885147030606673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 85
+        width: 211
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b0a7db28c6c5f0800000000000000
+      internalID: -736681398401714782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 86
+        width: 227
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a2a9dff9d33a10800000000000000
+      internalID: 1888092361689572745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 90
+        width: 243
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24619d5dd7790caa0800000000000000
+      internalID: -6142743325018876350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessWalk_19
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 93
+        width: 269
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a45b9c0ec345ed0800000000000000
+      internalID: -2426247363091412432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PrincessWalk_0: 1918414842685603831
+      PrincessWalk_1: 7908042989694471166
+      PrincessWalk_10: 127055131797578001
+      PrincessWalk_11: -4254388878262908426
+      PrincessWalk_12: -3927534023031770072
+      PrincessWalk_13: 2040016359325184466
+      PrincessWalk_14: 8104149676376149494
+      PrincessWalk_15: -8990885147030606673
+      PrincessWalk_16: -736681398401714782
+      PrincessWalk_17: 1888092361689572745
+      PrincessWalk_18: -6142743325018876350
+      PrincessWalk_19: -2426247363091412432
+      PrincessWalk_2: 3273216251775865572
+      PrincessWalk_3: 4244400070981943645
+      PrincessWalk_4: 4101005576729167746
+      PrincessWalk_5: -6023034737936412878
+      PrincessWalk_6: 5197531083583158159
+      PrincessWalk_7: 3164476784127729546
+      PrincessWalk_8: -1339743884124361376
+      PrincessWalk_9: -6315822520620653274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

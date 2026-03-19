@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a0a6ed76f43878d42baadafe569957d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1030019393584543233
+    second: DragonJump_0
+  - first:
+      213: -6955434540960566681
+    second: DragonJump_1
+  - first:
+      213: 4600942406107895965
+    second: DragonJump_2
+  - first:
+      213: 6066013427420884295
+    second: DragonJump_3
+  - first:
+      213: -5657358304487195408
+    second: DragonJump_4
+  - first:
+      213: 1244612082137781249
+    second: DragonJump_5
+  - first:
+      213: -2017061689862272811
+    second: DragonJump_6
+  - first:
+      213: 2749175081988905974
+    second: DragonJump_7
+  - first:
+      213: -268618569006708864
+    second: DragonJump_8
+  - first:
+      213: 4799107308608950879
+    second: DragonJump_9
+  - first:
+      213: 2946062738296004582
+    second: DragonJump_10
+  - first:
+      213: 6190014689355079028
+    second: DragonJump_11
+  - first:
+      213: 2817164007419117450
+    second: DragonJump_12
+  - first:
+      213: 7104633784115715356
+    second: DragonJump_13
+  - first:
+      213: 3351134520320232577
+    second: DragonJump_14
+  - first:
+      213: -1788643885118477834
+    second: DragonJump_15
+  - first:
+      213: -477559059693455204
+    second: DragonJump_16
+  - first:
+      213: 6256493720720916002
+    second: DragonJump_17
+  - first:
+      213: -4318950313923310887
+    second: DragonJump_18
+  - first:
+      213: 4199438720154636122
+    second: DragonJump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DragonJump_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1519
+        width: 289
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106be526e2d5b4e00800000000000000
+      internalID: 1030019393584543233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1519
+        width: 310
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762309fe225597f90800000000000000
+      internalID: -6955434540960566681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1501
+        width: 320
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d989714ddb4d9df30800000000000000
+      internalID: 4600942406107895965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_3
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1531
+        width: 292
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74deb28b21fce2450800000000000000
+      internalID: 6066013427420884295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1155
+        width: 310
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc3fe598960d71b0800000000000000
+      internalID: -5657358304487195408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1155
+        width: 290
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1045bfe2810c54110800000000000000
+      internalID: 1244612082137781249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_6
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1165
+        width: 284
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8c5b57415f104e0800000000000000
+      internalID: -2017061689862272811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_7
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1153
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbdd4bdb28072620800000000000000
+      internalID: 2749175081988905974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 827
+        width: 274
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087084ea5dca54cf0800000000000000
+      internalID: -268618569006708864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 848
+        width: 271
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f521e90abaad99240800000000000000
+      internalID: 4799107308608950879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 857
+        width: 271
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd52a937482e820800000000000000
+      internalID: 2946062738296004582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_11
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 787
+        width: 295
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d9579509957e550800000000000000
+      internalID: 6190014689355079028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 269
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7b302db3981720800000000000000
+      internalID: 2817164007419117450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 498
+        width: 267
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dd471e8cab89260800000000000000
+      internalID: 7104633784115715356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 499
+        width: 268
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c8c36571f918e20800000000000000
+      internalID: 3351134520320232577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_15
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 421
+        width: 301
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9a6d5fcd57d27e0800000000000000
+      internalID: -1788643885118477834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 133
+        width: 277
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b3bfb09e5f59f0800000000000000
+      internalID: -477559059693455204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_17
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 133
+        width: 284
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e380304e783d650800000000000000
+      internalID: 6256493720720916002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_18
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 118
+        width: 291
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0a0082910014c0800000000000000
+      internalID: -4318950313923310887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonJump_19
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 55
+        width: 299
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f86d23447674a30800000000000000
+      internalID: 4199438720154636122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DragonJump_0: 1030019393584543233
+      DragonJump_1: -6955434540960566681
+      DragonJump_10: 2946062738296004582
+      DragonJump_11: 6190014689355079028
+      DragonJump_12: 2817164007419117450
+      DragonJump_13: 7104633784115715356
+      DragonJump_14: 3351134520320232577
+      DragonJump_15: -1788643885118477834
+      DragonJump_16: -477559059693455204
+      DragonJump_17: 6256493720720916002
+      DragonJump_18: -4318950313923310887
+      DragonJump_19: 4199438720154636122
+      DragonJump_2: 4600942406107895965
+      DragonJump_3: 6066013427420884295
+      DragonJump_4: -5657358304487195408
+      DragonJump_5: 1244612082137781249
+      DragonJump_6: -2017061689862272811
+      DragonJump_7: 2749175081988905974
+      DragonJump_8: -268618569006708864
+      DragonJump_9: 4799107308608950879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

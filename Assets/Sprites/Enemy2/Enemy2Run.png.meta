@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 27bd475ca84aead4daed16a74f0a6668
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2408702492730974197
+    second: Enemy2Run_0
+  - first:
+      213: -4899563536889116998
+    second: Enemy2Run_1
+  - first:
+      213: -9016199932509644935
+    second: Enemy2Run_2
+  - first:
+      213: -8319540644764379935
+    second: Enemy2Run_3
+  - first:
+      213: 1934894757646804111
+    second: Enemy2Run_4
+  - first:
+      213: 385296530623892892
+    second: Enemy2Run_5
+  - first:
+      213: -1666178227230909550
+    second: Enemy2Run_6
+  - first:
+      213: -4664415797193683973
+    second: Enemy2Run_7
+  - first:
+      213: 3613886242124361339
+    second: Enemy2Run_8
+  - first:
+      213: 8672671762906392730
+    second: Enemy2Run_9
+  - first:
+      213: -5941954590818300361
+    second: Enemy2Run_10
+  - first:
+      213: -7609044366041130195
+    second: Enemy2Run_11
+  - first:
+      213: -7938758987978015176
+    second: Enemy2Run_12
+  - first:
+      213: 8800485748745062551
+    second: Enemy2Run_13
+  - first:
+      213: 4849451106302587112
+    second: Enemy2Run_14
+  - first:
+      213: 7975447759153832960
+    second: Enemy2Run_15
+  - first:
+      213: 5528667611677384002
+    second: Enemy2Run_16
+  - first:
+      213: 5710695536494635089
+    second: Enemy2Run_17
+  - first:
+      213: 1067815538272829658
+    second: Enemy2Run_18
+  - first:
+      213: -197550373065050624
+    second: Enemy2Run_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy2Run_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1830
+        width: 296
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b002c2f38d1929ed0800000000000000
+      internalID: -2408702492730974197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1817
+        width: 286
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab684451ce0410cb0800000000000000
+      internalID: -4899563536889116998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_2
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1799
+        width: 278
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779cd66ee500e280800000000000000
+      internalID: -9016199932509644935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_3
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1792
+        width: 274
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41566ccdd0b8c80800000000000000
+      internalID: -8319540644764379935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_4
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1800
+        width: 363
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84ad43d7802ada10800000000000000
+      internalID: 1934894757646804111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1227
+        width: 278
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d07093729d85500800000000000000
+      internalID: 385296530623892892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_6
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1227
+        width: 295
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b5969eabb80e8e0800000000000000
+      internalID: -1666178227230909550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_7
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1229
+        width: 317
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbcc8bab8aa44fb0800000000000000
+      internalID: -4664415797193683973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_8
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1231
+        width: 343
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e6e78d36a172230800000000000000
+      internalID: 3613886242124361339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_9
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1229
+        width: 341
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98a891c4058b5870800000000000000
+      internalID: 8672671762906392730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 667
+        width: 370
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e06ce08cfe98da0800000000000000
+      internalID: -5941954590818300361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 677
+        width: 391
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b5ee9a67e376690800000000000000
+      internalID: -7609044366041130195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_12
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 684
+        width: 405
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e712403ccd3d190800000000000000
+      internalID: -7938758987978015176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_13
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 682
+        width: 413
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79846d8592b912a70800000000000000
+      internalID: 8800485748745062551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_14
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 668
+        width: 319
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07ac27616bc4340800000000000000
+      internalID: 4849451106302587112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 98
+        width: 414
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ac013b7b7eae60800000000000000
+      internalID: 7975447759153832960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_16
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 88
+        width: 409
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ddc3396e5c9bc40800000000000000
+      internalID: 5528667611677384002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_17
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 92
+        width: 399
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158eb297557704f40800000000000000
+      internalID: 5710695536494635089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_18
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 93
+        width: 383
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad005641394a1de00800000000000000
+      internalID: 1067815538272829658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Run_19
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 121
+        width: 299
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006363c7bf8224df0800000000000000
+      internalID: -197550373065050624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy2Run_0: -2408702492730974197
+      Enemy2Run_1: -4899563536889116998
+      Enemy2Run_10: -5941954590818300361
+      Enemy2Run_11: -7609044366041130195
+      Enemy2Run_12: -7938758987978015176
+      Enemy2Run_13: 8800485748745062551
+      Enemy2Run_14: 4849451106302587112
+      Enemy2Run_15: 7975447759153832960
+      Enemy2Run_16: 5528667611677384002
+      Enemy2Run_17: 5710695536494635089
+      Enemy2Run_18: 1067815538272829658
+      Enemy2Run_19: -197550373065050624
+      Enemy2Run_2: -9016199932509644935
+      Enemy2Run_3: -8319540644764379935
+      Enemy2Run_4: 1934894757646804111
+      Enemy2Run_5: 385296530623892892
+      Enemy2Run_6: -1666178227230909550
+      Enemy2Run_7: -4664415797193683973
+      Enemy2Run_8: 3613886242124361339
+      Enemy2Run_9: 8672671762906392730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

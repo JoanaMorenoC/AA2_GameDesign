@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 3fd59127f2f1b0f408d37ddc57babb1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2393642656462380305
+    second: PrincessRun_0
+  - first:
+      213: -8845981290639334751
+    second: PrincessRun_1
+  - first:
+      213: 5101530854383380780
+    second: PrincessRun_2
+  - first:
+      213: 2055583450249435914
+    second: PrincessRun_3
+  - first:
+      213: -6491889210103721675
+    second: PrincessRun_4
+  - first:
+      213: 6592409003598138187
+    second: PrincessRun_5
+  - first:
+      213: 6862496336331199609
+    second: PrincessRun_6
+  - first:
+      213: 5806543412531099450
+    second: PrincessRun_7
+  - first:
+      213: -8213564025320880538
+    second: PrincessRun_8
+  - first:
+      213: 5789251519824847616
+    second: PrincessRun_9
+  - first:
+      213: 6846353876964299518
+    second: PrincessRun_10
+  - first:
+      213: -4340264437482317112
+    second: PrincessRun_11
+  - first:
+      213: -1524172836318343096
+    second: PrincessRun_12
+  - first:
+      213: 5352813337535086192
+    second: PrincessRun_13
+  - first:
+      213: 327362048402554276
+    second: PrincessRun_14
+  - first:
+      213: 4117104972962294755
+    second: PrincessRun_15
+  - first:
+      213: 5259407531703690959
+    second: PrincessRun_16
+  - first:
+      213: -4768785557708455263
+    second: PrincessRun_17
+  - first:
+      213: 3215662901295254346
+    second: PrincessRun_18
+  - first:
+      213: -3073940760424230184
+    second: PrincessRun_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrincessRun_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1594
+        width: 230
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2665e9fa218ced0800000000000000
+      internalID: -2393642656462380305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1584
+        width: 222
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2e0b952e2cc3580800000000000000
+      internalID: -8845981290639334751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_2
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1572
+        width: 212
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29673278474cc640800000000000000
+      internalID: 5101530854383380780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1567
+        width: 208
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b1a4ec146e68c10800000000000000
+      internalID: 2055583450249435914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_4
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1565
+        width: 272
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531939ea82d28e5a0800000000000000
+      internalID: -6491889210103721675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1076
+        width: 206
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bcd898f01fc7b50800000000000000
+      internalID: 6592409003598138187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1076
+        width: 213
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974d07f0f0c7c3f50800000000000000
+      internalID: 6862496336331199609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_7
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1074
+        width: 228
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37fcc4287cf49050800000000000000
+      internalID: 5806543412531099450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_8
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1077
+        width: 248
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66642da490f830e80800000000000000
+      internalID: -8213564025320880538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_9
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1070
+        width: 255
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003ec82a59d875050800000000000000
+      internalID: 5789251519824847616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 586
+        width: 261
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2531bd392230f50800000000000000
+      internalID: 6846353876964299518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 594
+        width: 281
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1b946d7844c3c0800000000000000
+      internalID: -4340264437482317112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_12
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 601
+        width: 292
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84012fa71ec09dae0800000000000000
+      internalID: -1524172836318343096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 601
+        width: 296
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e70ccbe53094a40800000000000000
+      internalID: 5352813337535086192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_14
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 583
+        width: 250
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7aff6c060b8400800000000000000
+      internalID: 327362048402554276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 298
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb6968d825e22930800000000000000
+      internalID: 4117104972962294755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 91
+        width: 297
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66638d84b2df840800000000000000
+      internalID: 5259407531703690959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_17
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 92
+        width: 292
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a246c62dced1ddb0800000000000000
+      internalID: -4768785557708455263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_18
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 90
+        width: 284
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b0b151f5450ac20800000000000000
+      internalID: 3215662901295254346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessRun_19
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 116
+        width: 242
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2d1523a2b2755d0800000000000000
+      internalID: -3073940760424230184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PrincessRun_0: -2393642656462380305
+      PrincessRun_1: -8845981290639334751
+      PrincessRun_10: 6846353876964299518
+      PrincessRun_11: -4340264437482317112
+      PrincessRun_12: -1524172836318343096
+      PrincessRun_13: 5352813337535086192
+      PrincessRun_14: 327362048402554276
+      PrincessRun_15: 4117104972962294755
+      PrincessRun_16: 5259407531703690959
+      PrincessRun_17: -4768785557708455263
+      PrincessRun_18: 3215662901295254346
+      PrincessRun_19: -3073940760424230184
+      PrincessRun_2: 5101530854383380780
+      PrincessRun_3: 2055583450249435914
+      PrincessRun_4: -6491889210103721675
+      PrincessRun_5: 6592409003598138187
+      PrincessRun_6: 6862496336331199609
+      PrincessRun_7: 5806543412531099450
+      PrincessRun_8: -8213564025320880538
+      PrincessRun_9: 5789251519824847616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

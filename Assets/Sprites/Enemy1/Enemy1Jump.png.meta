@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 0e37e5065de56e44f838fea8ed6c8361
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1699429909444886049
+    second: Enemy1Jump_0
+  - first:
+      213: -1202550359157102941
+    second: Enemy1Jump_1
+  - first:
+      213: -7678723250145207799
+    second: Enemy1Jump_2
+  - first:
+      213: 3384507715580329925
+    second: Enemy1Jump_3
+  - first:
+      213: 8295716334457913866
+    second: Enemy1Jump_4
+  - first:
+      213: -8832998330240908903
+    second: Enemy1Jump_5
+  - first:
+      213: 115760494180184736
+    second: Enemy1Jump_6
+  - first:
+      213: -1283224257133138370
+    second: Enemy1Jump_7
+  - first:
+      213: 8465300686328430619
+    second: Enemy1Jump_8
+  - first:
+      213: -1534654382815127413
+    second: Enemy1Jump_9
+  - first:
+      213: 8828012920161881369
+    second: Enemy1Jump_10
+  - first:
+      213: -639693912568043484
+    second: Enemy1Jump_11
+  - first:
+      213: -8056357698572241047
+    second: Enemy1Jump_12
+  - first:
+      213: 8698104202071674717
+    second: Enemy1Jump_13
+  - first:
+      213: 5717938127573940564
+    second: Enemy1Jump_14
+  - first:
+      213: -793251333253576834
+    second: Enemy1Jump_15
+  - first:
+      213: 1302972289893530781
+    second: Enemy1Jump_16
+  - first:
+      213: -2375405811640855685
+    second: Enemy1Jump_17
+  - first:
+      213: -4609054155109869686
+    second: Enemy1Jump_18
+  - first:
+      213: 7097384764648023607
+    second: Enemy1Jump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy1Jump_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1526
+        width: 351
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd10dd650896a68e0800000000000000
+      internalID: -1699429909444886049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1526
+        width: 366
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a62ce9d1deaf4fe0800000000000000
+      internalID: -1202550359157102941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_2
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1525
+        width: 374
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90adf8a33e1bf6590800000000000000
+      internalID: -7678723250145207799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1526
+        width: 375
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cffbbed5df28fe20800000000000000
+      internalID: 3384507715580329925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1526
+        width: 313
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0205c8bd0e402370800000000000000
+      internalID: 8295716334457913866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1037
+        width: 369
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9914f5061d2ea6580800000000000000
+      internalID: -8832998330240908903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_6
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1041
+        width: 357
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a232ae5e834b9100800000000000000
+      internalID: 115760494180184736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1063
+        width: 338
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e2a624652113ee0800000000000000
+      internalID: -1283224257133138370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1078
+        width: 316
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100a758f1aca7570800000000000000
+      internalID: 8465300686328430619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_9
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1037
+        width: 335
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88de4348ffc3bae0800000000000000
+      internalID: -1534654382815127413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 601
+        width: 307
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dcec26af6638a70800000000000000
+      internalID: 8828012920161881369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 609
+        width: 306
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e66896c95f17f0800000000000000
+      internalID: -639693912568043484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_12
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 613
+        width: 303
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9673e198b51123090800000000000000
+      internalID: -8056357698572241047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 615
+        width: 303
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f80dfefafd5b870800000000000000
+      internalID: 8698104202071674717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_14
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 541
+        width: 353
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f4bd9e623a5f40800000000000000
+      internalID: 5717938127573940564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 296
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77c0df7d1ecdf4f0800000000000000
+      internalID: -793251333253576834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_16
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 111
+        width: 304
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf74be466151210800000000000000
+      internalID: 1302972289893530781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_17
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 97
+        width: 328
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739fbfeffcd80fd0800000000000000
+      internalID: -2375405811640855685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_18
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 57
+        width: 323
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87532e6aa95900c0800000000000000
+      internalID: -4609054155109869686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Jump_19
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 59
+        width: 356
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366d1307d9fe7260800000000000000
+      internalID: 7097384764648023607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy1Jump_0: -1699429909444886049
+      Enemy1Jump_1: -1202550359157102941
+      Enemy1Jump_10: 8828012920161881369
+      Enemy1Jump_11: -639693912568043484
+      Enemy1Jump_12: -8056357698572241047
+      Enemy1Jump_13: 8698104202071674717
+      Enemy1Jump_14: 5717938127573940564
+      Enemy1Jump_15: -793251333253576834
+      Enemy1Jump_16: 1302972289893530781
+      Enemy1Jump_17: -2375405811640855685
+      Enemy1Jump_18: -4609054155109869686
+      Enemy1Jump_19: 7097384764648023607
+      Enemy1Jump_2: -7678723250145207799
+      Enemy1Jump_3: 3384507715580329925
+      Enemy1Jump_4: 8295716334457913866
+      Enemy1Jump_5: -8832998330240908903
+      Enemy1Jump_6: 115760494180184736
+      Enemy1Jump_7: -1283224257133138370
+      Enemy1Jump_8: 8465300686328430619
+      Enemy1Jump_9: -1534654382815127413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
