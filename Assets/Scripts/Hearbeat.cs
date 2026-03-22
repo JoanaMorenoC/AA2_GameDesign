@@ -25,6 +25,7 @@ public class Heartbeat : MonoBehaviour
     {
         initialScale = heartImage.localScale;
         initialColliderSize = boxCollider.size;
+        colliderMaxScale = initialColliderSize * 2f;
     }
 
     void Update()
