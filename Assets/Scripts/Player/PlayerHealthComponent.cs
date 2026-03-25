@@ -26,11 +26,11 @@ public class PlayerHealthComponent : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log(other.name);
 
         if (other.CompareTag("EnemyAttack"))
         {
             TakeDamage(1);
+            Destroy(other.gameObject);
         }
     }
 

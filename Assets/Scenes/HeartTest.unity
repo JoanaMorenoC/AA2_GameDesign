@@ -714,7 +714,8 @@ GameObject:
   - component: {fileID: 658677607}
   - component: {fileID: 658677606}
   - component: {fileID: 658677605}
-  - component: {fileID: 658677604}
+  - component: {fileID: 658677609}
+  - component: {fileID: 658677608}
   m_Layer: 0
   m_Name: Collider
   m_TagString: Player
@@ -722,27 +723,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &658677604
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 658677603}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ddfd0d8a5f3d27043b472664d6e7cdd6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  heartRate: 60
-  scaleAmplitude: 0.2
-  minHeartRate: 60
-  maxHeartRate: 160
-  colliderMaxScale: {x: 2, y: 2}
-  currentColliderScale: {x: 0, y: 0}
-  heartImage: {fileID: 451270483}
-  boxCollider: {fileID: 658677605}
-  colliderVisual: {fileID: 658677607}
 --- !u!61 &658677605
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -859,6 +839,44 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1099667050}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &658677608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658677603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d1794e82d7cc7b46bd758bb202528c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 5
+  heartbeat: {fileID: 658677609}
+  heartRateIncreaseOnHit: 20
+  heartRateRecoverySpeed: 10
+  recoveryDelay: 2
+--- !u!114 &658677609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658677603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddfd0d8a5f3d27043b472664d6e7cdd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heartRate: 60
+  scaleAmplitude: 0.2
+  minHeartRate: 60
+  maxHeartRate: 160
+  colliderMaxScale: {x: 2, y: 2}
+  currentColliderScale: {x: 0, y: 0}
+  heartImage: {fileID: 451270483}
+  boxCollider: {fileID: 658677605}
+  colliderVisual: {fileID: 658677607}
 --- !u!1 &1099667049
 GameObject:
   m_ObjectHideFlags: 0
@@ -868,7 +886,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1099667050}
-  - component: {fileID: 1099667051}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -893,23 +910,6 @@ Transform:
   - {fileID: 1441973945}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1099667051
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1099667049}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d1794e82d7cc7b46bd758bb202528c7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxHealth: 5
-  heartbeat: {fileID: 658677604}
-  heartRateIncreaseOnHit: 20
-  heartRateRecoverySpeed: 10
-  recoveryDelay: 2
 --- !u!1 &1441973943
 GameObject:
   m_ObjectHideFlags: 0

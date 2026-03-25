@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7847424821127343794}
   - component: {fileID: 5380277740251289008}
   - component: {fileID: 1148252107577303038}
+  - component: {fileID: 6039788445169495063}
   m_Layer: 0
   m_Name: SilenceAttack
   m_TagString: EnemyAttack
@@ -141,7 +142,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -157,6 +158,33 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.0894198, y: 0.7406374}
   m_EdgeRadius: 0
+--- !u!50 &6039788445169495063
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 138892597223516013}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1897594965889570774
 GameObject:
   m_ObjectHideFlags: 0
@@ -167,6 +195,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4371826864208558646}
   - component: {fileID: 5641989994824924493}
+  - component: {fileID: 4035621485029927570}
   m_Layer: 0
   m_Name: Collider2
   m_TagString: EnemyAttack
@@ -219,7 +248,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -235,6 +264,33 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.27361965, y: 0.20391577}
   m_EdgeRadius: 0
+--- !u!50 &4035621485029927570
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897594965889570774}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2094884833776922310
 GameObject:
   m_ObjectHideFlags: 0
@@ -248,7 +304,7 @@ GameObject:
   - component: {fileID: 2963858912519214997}
   m_Layer: 0
   m_Name: Frase
-  m_TagString: Untagged
+  m_TagString: EnemyAttack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
