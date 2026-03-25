@@ -43,9 +43,6 @@ public class Heartbeat : MonoBehaviour
         float scaleFactor = 1 + normalizedPulse * scaleAmplitude;
         heartImage.localScale = initialScale * scaleFactor;
 
-        float colliderFactor = 1 + normalizedPulse * scaleAmplitude;
-        currentColliderScale = initialColliderSize * colliderFactor;
-
         currentColliderScale = Vector2.Lerp(initialColliderSize, colliderMaxScale, t);
 
         colliderVisual.localScale = new Vector3(
