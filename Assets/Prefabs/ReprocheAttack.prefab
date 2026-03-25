@@ -186,6 +186,11 @@ MonoBehaviour:
   amplitude: 7
   frequency: 3
   spriteRenderer: {fileID: 227301576338024857}
+  texts:
+  - Primera frase
+  - Toma Reproche
+  - Jajajaja
+  - "\xDAltima frase"
 --- !u!1 &8753271107824616222
 GameObject:
   m_ObjectHideFlags: 0

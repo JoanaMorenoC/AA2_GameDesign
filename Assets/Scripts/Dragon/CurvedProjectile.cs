@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class CurvedProjectile : MonoBehaviour
@@ -15,6 +16,10 @@ public class CurvedProjectile : MonoBehaviour
 
     [SerializeField] private SpriteRenderer spriteRenderer;
 
+
+    public List<string> texts;
+    private TextMeshProUGUI txt;
+
     void Start()
     {
         int randomTextBubble = Random.Range(0, textBubbles.Count);
@@ -22,6 +27,11 @@ public class CurvedProjectile : MonoBehaviour
         spriteRenderer.sprite = textBubbles[randomTextBubble];
         Destroy(gameObject, destroyTime);
 
+        txt = GameObject.FindGameObjectWithTag("Reproche").GetComponent<TextMeshProUGUI>();
+        txt.enabled = true;
+
+        int randomText = Random.Range(0, texts.Count);
+        txt.text = texts[randomText];
     }
 
     public void Initialize(Vector2 dir)
