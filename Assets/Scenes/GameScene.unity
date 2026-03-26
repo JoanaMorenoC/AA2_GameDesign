@@ -1223,10 +1223,22 @@ PrefabInstance:
       propertyPath: m_Constraints
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1272944488171630969, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1272944488171630969, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1599062039088209545, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
       propertyPath: heartImage
       value: 
       objectReference: {fileID: 996591171}
+    - target: {fileID: 1695919245609277375, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 2519931897921574638, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.98
@@ -1267,13 +1279,37 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2662801691025686098, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4986426361622350596, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
       propertyPath: m_Name
-      value: Player (1)
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4986426361622350596, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 5711843002668694246, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
       propertyPath: m_IsTrigger
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6519239107043118549, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6519239107043118549, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 7185501721434245331, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7185501721434245331, guid: b5d5a8e6d23ac124689bea6db0963aef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
