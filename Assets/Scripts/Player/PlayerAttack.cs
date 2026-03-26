@@ -11,6 +11,7 @@ public class PlayerAttack : MonoBehaviour
 
     [Header("References")]
     [SerializeField] private PlayerMovement movementScript;
+    [SerializeField] private PlayerAnimations animationsScript;
 
     private float timer;
 
@@ -32,6 +33,8 @@ public class PlayerAttack : MonoBehaviour
         Vector2 dir = movementScript.GetLookDirection();
 
         proj.GetComponent<TextBubbleProjectile>().Initialize(dir);
+
+        animationsScript.OnAttack();
     }
 
     bool ShootButtonPressed()

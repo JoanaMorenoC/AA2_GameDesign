@@ -30,4 +30,9 @@ public class PlayerAnimations : MonoBehaviour
             transform.localScale = new Vector3(1f, 1f, 1f);
         }
     }
+
+    public void OnAttack()
+    {
+        animator.SetTrigger("Attack");
+    }
 }
