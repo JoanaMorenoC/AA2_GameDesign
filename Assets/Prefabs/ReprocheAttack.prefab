@@ -184,7 +184,7 @@ MonoBehaviour:
   destroyTime: 5
   speed: 5
   amplitude: 7
-  frequency: 3
+  frequency: 5
   spriteRenderer: {fileID: 227301576338024857}
   texts:
   - Primera frase
