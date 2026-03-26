@@ -19,6 +19,8 @@ public class ShieldSize : MonoBehaviour
 
     private void OnEnable()
     {
+        SFXManager.Instance.PlayGlobalSound("ShieldSpawn", 1f);
+
         if (initialScale == Vector3.zero)
             initialScale = shieldTransform.localScale;
 
