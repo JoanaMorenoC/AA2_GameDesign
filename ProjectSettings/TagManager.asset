@@ -6,6 +6,7 @@ TagManager:
   tags:
   - EnemyAttack
   - Reproche
+  - PlayerAttack
   layers:
   - Default
   - TransparentFX
