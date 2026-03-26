@@ -168,10 +168,10 @@ TextureImporter:
       name: DragonAttack2_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 1153
-        width: 290
-        height: 209
+        x: 0
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: DragonAttack2_1
       rect:
         serializedVersion: 2
-        x: 551
-        y: 1153
-        width: 276
-        height: 219
+        x: 521
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: DragonAttack2_2
       rect:
         serializedVersion: 2
-        x: 1078
-        y: 1153
-        width: 262
-        height: 225
+        x: 1042
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: DragonAttack2_3
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 1153
-        width: 297
-        height: 211
+        x: 1563
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: DragonAttack2_4
       rect:
         serializedVersion: 2
-        x: 35
-        y: 787
-        width: 250
-        height: 228
+        x: 0
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: DragonAttack2_5
       rect:
         serializedVersion: 2
-        x: 560
-        y: 787
-        width: 238
-        height: 234
+        x: 521
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: DragonAttack2_6
       rect:
         serializedVersion: 2
-        x: 1076
-        y: 787
-        width: 235
-        height: 238
+        x: 1042
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: DragonAttack2_7
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 787
-        width: 295
-        height: 210
+        x: 1563
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: DragonAttack2_8
       rect:
         serializedVersion: 2
-        x: 22
-        y: 421
-        width: 236
-        height: 240
+        x: 0
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: DragonAttack2_9
       rect:
         serializedVersion: 2
-        x: 524
-        y: 421
-        width: 237
-        height: 222
+        x: 521
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: DragonAttack2_10
       rect:
         serializedVersion: 2
-        x: 1051
-        y: 421
-        width: 252
-        height: 224
+        x: 1042
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: DragonAttack2_11
       rect:
         serializedVersion: 2
-        x: 51
-        y: 55
-        width: 343
-        height: 215
+        x: 1563
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: DragonAttack2_12
       rect:
         serializedVersion: 2
-        x: 553
-        y: 55
-        width: 429
-        height: 214
+        x: 0
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: DragonAttack2_13
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 56
-        width: 438
-        height: 211
+        x: 521
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,7 +476,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0b5e6290542bc4d45912af10af993ff3
     internalID: 0
     vertices: []
     indices: 

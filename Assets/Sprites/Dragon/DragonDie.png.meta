@@ -186,10 +186,10 @@ TextureImporter:
       name: DragonDie_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 1519
-        width: 290
-        height: 213
+        x: 0
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,10 +208,10 @@ TextureImporter:
       name: DragonDie_1
       rect:
         serializedVersion: 2
-        x: 538
-        y: 1519
-        width: 310
-        height: 177
+        x: 521
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: DragonDie_2
       rect:
         serializedVersion: 2
-        x: 1053
-        y: 1504
-        width: 320
-        height: 163
+        x: 1042
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: DragonDie_3
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 1521
-        width: 289
-        height: 202
+        x: 1563
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: DragonDie_4
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1155
-        width: 310
-        height: 174
+        x: 2084
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: DragonDie_5
       rect:
         serializedVersion: 2
-        x: 551
-        y: 1155
-        width: 290
-        height: 210
+        x: 0
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: DragonDie_6
       rect:
         serializedVersion: 2
-        x: 1076
-        y: 1165
-        width: 284
-        height: 215
+        x: 521
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: DragonDie_7
       rect:
         serializedVersion: 2
-        x: 1595
-        y: 1164
-        width: 285
-        height: 159
+        x: 1042
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: DragonDie_8
       rect:
         serializedVersion: 2
-        x: 31
-        y: 827
-        width: 274
-        height: 217
+        x: 1563
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: DragonDie_9
       rect:
         serializedVersion: 2
-        x: 553
-        y: 848
-        width: 271
-        height: 222
+        x: 2084
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: DragonDie_10
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 856
-        width: 271
-        height: 235
+        x: 0
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: DragonDie_11
       rect:
         serializedVersion: 2
-        x: 1585
-        y: 792
-        width: 306
-        height: 151
+        x: 521
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: DragonDie_12
       rect:
         serializedVersion: 2
-        x: 32
-        y: 493
-        width: 270
-        height: 235
+        x: 1042
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: DragonDie_13
       rect:
         serializedVersion: 2
-        x: 560
-        y: 488
-        width: 266
-        height: 240
+        x: 1563
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: DragonDie_14
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 484
-        width: 268
-        height: 238
+        x: 2084
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: DragonDie_15
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 425
-        width: 318
-        height: 142
+        x: 0
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: DragonDie_16
       rect:
         serializedVersion: 2
-        x: 28
-        y: 114
-        width: 276
-        height: 236
+        x: 521
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: DragonDie_17
       rect:
         serializedVersion: 2
-        x: 545
-        y: 93
-        width: 283
-        height: 235
+        x: 1042
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: DragonDie_18
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 68
-        width: 289
-        height: 233
+        x: 1563
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: DragonDie_19
       rect:
         serializedVersion: 2
-        x: 1583
-        y: 69
-        width: 304
-        height: 144
+        x: 2084
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,7 +626,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1d34cdd7c4eeaec439c41806753ed9a5
     internalID: 0
     vertices: []
     indices: 
