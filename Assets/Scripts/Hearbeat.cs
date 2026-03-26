@@ -20,6 +20,7 @@ public class Heartbeat : MonoBehaviour
     public Transform colliderVisual;
 
     private Vector3 initialScale;
+    float lastScaleFactor = 1f;
 
     void Start()
     {
@@ -41,6 +42,7 @@ public class Heartbeat : MonoBehaviour
         float normalizedPulse = (pulse + 1f) / 2f;
 
         float scaleFactor = 1 + normalizedPulse * scaleAmplitude;
+        lastScaleFactor = scaleFactor;
         heartImage.localScale = initialScale * scaleFactor;
 
         currentColliderScale = Vector2.Lerp(initialColliderSize, colliderMaxScale, t);
@@ -50,5 +52,10 @@ public class Heartbeat : MonoBehaviour
             currentColliderScale.y,
             1f
         );
+    }
+
+    public float GetScaleFactor()
+    {
+        return lastScaleFactor;
     }
 }
