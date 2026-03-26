@@ -246,10 +246,10 @@ TextureImporter:
       name: DragonIdle_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 2251
-        width: 299
-        height: 209
+        x: 0
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: DragonIdle_1
       rect:
         serializedVersion: 2
-        x: 536
-        y: 2251
-        width: 301
-        height: 209
+        x: 521
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: DragonIdle_2
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 2251
-        width: 304
-        height: 209
+        x: 1042
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +312,10 @@ TextureImporter:
       name: DragonIdle_3
       rect:
         serializedVersion: 2
-        x: 1578
-        y: 2251
-        width: 305
-        height: 208
+        x: 1563
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,10 +334,10 @@ TextureImporter:
       name: DragonIdle_4
       rect:
         serializedVersion: 2
-        x: 2099
-        y: 2251
-        width: 306
-        height: 208
+        x: 2084
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +356,10 @@ TextureImporter:
       name: DragonIdle_5
       rect:
         serializedVersion: 2
-        x: 2644
-        y: 2251
-        width: 287
-        height: 209
+        x: 2605
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,10 +378,10 @@ TextureImporter:
       name: DragonIdle_6
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1885
-        width: 308
-        height: 207
+        x: 3126
+        y: 1820
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,10 +400,10 @@ TextureImporter:
       name: DragonIdle_7
       rect:
         serializedVersion: 2
-        x: 528
-        y: 1885
-        width: 309
-        height: 207
+        x: 0
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,10 +422,10 @@ TextureImporter:
       name: DragonIdle_8
       rect:
         serializedVersion: 2
-        x: 1050
-        y: 1885
-        width: 310
-        height: 206
+        x: 521
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,10 +444,10 @@ TextureImporter:
       name: DragonIdle_9
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 1885
-        width: 310
-        height: 205
+        x: 1042
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,10 +466,10 @@ TextureImporter:
       name: DragonIdle_10
       rect:
         serializedVersion: 2
-        x: 2097
-        y: 1885
-        width: 309
-        height: 204
+        x: 1563
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: DragonIdle_11
       rect:
         serializedVersion: 2
-        x: 2641
-        y: 1885
-        width: 289
-        height: 210
+        x: 2084
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,10 +510,10 @@ TextureImporter:
       name: DragonIdle_12
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1519
-        width: 308
-        height: 203
+        x: 2605
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,10 +532,10 @@ TextureImporter:
       name: DragonIdle_13
       rect:
         serializedVersion: 2
-        x: 531
-        y: 1519
-        width: 307
-        height: 202
+        x: 3126
+        y: 1456
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: DragonIdle_14
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 1519
-        width: 305
-        height: 200
+        x: 0
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -576,10 +576,10 @@ TextureImporter:
       name: DragonIdle_15
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 1519
-        width: 303
-        height: 200
+        x: 521
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,10 +598,10 @@ TextureImporter:
       name: DragonIdle_16
       rect:
         serializedVersion: 2
-        x: 2107
-        y: 1519
-        width: 300
-        height: 199
+        x: 1042
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -620,10 +620,10 @@ TextureImporter:
       name: DragonIdle_17
       rect:
         serializedVersion: 2
-        x: 2638
-        y: 1519
-        width: 292
-        height: 210
+        x: 1563
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -642,10 +642,10 @@ TextureImporter:
       name: DragonIdle_18
       rect:
         serializedVersion: 2
-        x: 18
-        y: 1153
-        width: 297
-        height: 198
+        x: 2084
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,10 +664,10 @@ TextureImporter:
       name: DragonIdle_19
       rect:
         serializedVersion: 2
-        x: 545
-        y: 1153
-        width: 293
-        height: 197
+        x: 2605
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -686,10 +686,10 @@ TextureImporter:
       name: DragonIdle_20
       rect:
         serializedVersion: 2
-        x: 1071
-        y: 1153
-        width: 290
-        height: 196
+        x: 3126
+        y: 1092
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,10 +708,10 @@ TextureImporter:
       name: DragonIdle_21
       rect:
         serializedVersion: 2
-        x: 1597
-        y: 1153
-        width: 288
-        height: 196
+        x: 0
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -730,10 +730,10 @@ TextureImporter:
       name: DragonIdle_22
       rect:
         serializedVersion: 2
-        x: 2124
-        y: 1153
-        width: 283
-        height: 197
+        x: 521
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -752,10 +752,10 @@ TextureImporter:
       name: DragonIdle_23
       rect:
         serializedVersion: 2
-        x: 2635
-        y: 1153
-        width: 295
-        height: 210
+        x: 1042
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,10 +774,10 @@ TextureImporter:
       name: DragonIdle_24
       rect:
         serializedVersion: 2
-        x: 35
-        y: 787
-        width: 281
-        height: 198
+        x: 1563
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,10 +796,10 @@ TextureImporter:
       name: DragonIdle_25
       rect:
         serializedVersion: 2
-        x: 561
-        y: 787
-        width: 278
-        height: 199
+        x: 2084
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -818,10 +818,10 @@ TextureImporter:
       name: DragonIdle_26
       rect:
         serializedVersion: 2
-        x: 1086
-        y: 787
-        width: 276
-        height: 200
+        x: 2605
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,10 +840,10 @@ TextureImporter:
       name: DragonIdle_27
       rect:
         serializedVersion: 2
-        x: 1611
-        y: 787
-        width: 274
-        height: 201
+        x: 3126
+        y: 728
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -862,10 +862,10 @@ TextureImporter:
       name: DragonIdle_28
       rect:
         serializedVersion: 2
-        x: 2136
-        y: 787
-        width: 272
-        height: 201
+        x: 0
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,10 +884,10 @@ TextureImporter:
       name: DragonIdle_29
       rect:
         serializedVersion: 2
-        x: 2633
-        y: 787
-        width: 297
-        height: 208
+        x: 521
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -906,10 +906,10 @@ TextureImporter:
       name: DragonIdle_30
       rect:
         serializedVersion: 2
-        x: 44
-        y: 421
-        width: 272
-        height: 202
+        x: 1042
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -928,10 +928,10 @@ TextureImporter:
       name: DragonIdle_31
       rect:
         serializedVersion: 2
-        x: 568
-        y: 421
-        width: 272
-        height: 203
+        x: 1563
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -950,10 +950,10 @@ TextureImporter:
       name: DragonIdle_32
       rect:
         serializedVersion: 2
-        x: 1091
-        y: 421
-        width: 271
-        height: 203
+        x: 2084
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,10 +972,10 @@ TextureImporter:
       name: DragonIdle_33
       rect:
         serializedVersion: 2
-        x: 1614
-        y: 421
-        width: 271
-        height: 203
+        x: 2605
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,10 +994,10 @@ TextureImporter:
       name: DragonIdle_34
       rect:
         serializedVersion: 2
-        x: 2135
-        y: 421
-        width: 273
-        height: 203
+        x: 3126
+        y: 364
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: DragonIdle_35
       rect:
         serializedVersion: 2
-        x: 42
-        y: 55
-        width: 274
-        height: 203
+        x: 0
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1038,10 +1038,10 @@ TextureImporter:
       name: DragonIdle_36
       rect:
         serializedVersion: 2
-        x: 563
-        y: 55
-        width: 276
-        height: 204
+        x: 521
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1060,10 +1060,10 @@ TextureImporter:
       name: DragonIdle_37
       rect:
         serializedVersion: 2
-        x: 1083
-        y: 55
-        width: 279
-        height: 205
+        x: 1042
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1082,10 +1082,10 @@ TextureImporter:
       name: DragonIdle_38
       rect:
         serializedVersion: 2
-        x: 1604
-        y: 55
-        width: 281
-        height: 207
+        x: 1563
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1104,10 +1104,10 @@ TextureImporter:
       name: DragonIdle_39
       rect:
         serializedVersion: 2
-        x: 2124
-        y: 55
-        width: 284
-        height: 208
+        x: 2084
+        y: 0
+        width: 521
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,7 +1126,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 82c445bb62be4d6418cb7f217285cccd
     internalID: 0
     vertices: []
     indices: 
