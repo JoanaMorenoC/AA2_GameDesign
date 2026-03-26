@@ -1,0 +1,61 @@
+using UnityEngine;
+
+public class PlayerBlock : MonoBehaviour
+{
+    [Header("Shield")]
+    [SerializeField] private GameObject shieldObject;
+
+    [Header("Block Settings")]
+    [SerializeField] private float blockDuration = 1.0f;
+    [SerializeField] private float blockCooldown = 2.0f;
+
+    private bool isBlocking = false;
+    private float blockTimer = 0f;
+    private float cooldownTimer = 0f;
+
+    void Update()
+    {
+        if (isBlocking)
+        {
+            blockTimer += Time.deltaTime;
+            if (blockTimer >= blockDuration)
+            {
+                EndBlock();
+            }
+        }
+
+        if (cooldownTimer > 0f)
+        {
+            cooldownTimer -= Time.deltaTime;
+        }
+
+        if (BlockButtonPressed() && !isBlocking && cooldownTimer <= 0f)
+        {
+            StartBlock();
+        }
+    }
+
+    void StartBlock()
+    {
+        isBlocking = true;
+        blockTimer = 0f;
+        shieldObject.SetActive(true);
+        cooldownTimer = blockCooldown;
+    }
+
+    void EndBlock()
+    {
+        isBlocking = false;
+        shieldObject.SetActive(false);
+    }
+
+    bool BlockButtonPressed()
+    {
+        return Input.GetKey(KeyCode.X) || Input.GetKey(KeyCode.LeftShift);
+    }
+
+    public bool IsBlocking()
+    {
+        return isBlocking;
+    }
+}
