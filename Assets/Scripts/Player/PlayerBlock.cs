@@ -47,15 +47,22 @@ public class PlayerBlock : MonoBehaviour
     {
         isBlocking = false;
         shieldObject.SetActive(false);
+        blockTimer = 0f;
     }
 
     bool BlockButtonPressed()
     {
-        return Input.GetKey(KeyCode.X) || Input.GetKey(KeyCode.LeftShift);
+        return Input.GetKeyDown(KeyCode.X) || Input.GetKeyDown(KeyCode.LeftShift);
     }
 
     public bool IsBlocking()
     {
         return isBlocking;
+    }
+
+    public void ResetBlockCooldown()
+    {
+        EndBlock();
+        cooldownTimer = 0f;
     }
 }

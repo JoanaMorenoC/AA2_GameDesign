@@ -365,7 +365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1004759810048967681}
-  speed: 5
+  speed: 6
 --- !u!114 &7781495860678140647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -411,8 +411,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shieldObject: {fileID: 6519239107043118549}
-  blockDuration: 1
-  blockCooldown: 2
+  blockDuration: 1.5
+  blockCooldown: 5
 --- !u!61 &7440769617448682221
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -612,6 +612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cba9dd4de9942bc409209be229cf4876, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerBlockScript: {fileID: 4255428878797629260}
 --- !u!1 &7786588811462164496
 GameObject:
   m_ObjectHideFlags: 0
