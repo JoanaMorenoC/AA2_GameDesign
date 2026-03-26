@@ -154,19 +154,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -175,9 +162,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1641
-        width: 662
-        height: 547
+        y: 1635
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +183,10 @@ TextureImporter:
       name: KnightAttack1_1
       rect:
         serializedVersion: 2
-        x: 662
-        y: 1641
-        width: 662
-        height: 547
+        x: 660
+        y: 1635
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +205,10 @@ TextureImporter:
       name: KnightAttack1_2
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 1641
-        width: 662
-        height: 547
+        x: 1320
+        y: 1635
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +227,10 @@ TextureImporter:
       name: KnightAttack1_3
       rect:
         serializedVersion: 2
-        x: 1986
-        y: 1641
-        width: 662
-        height: 547
+        x: 1980
+        y: 1635
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,9 +250,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1094
-        width: 662
-        height: 547
+        y: 1090
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +271,10 @@ TextureImporter:
       name: KnightAttack1_5
       rect:
         serializedVersion: 2
-        x: 662
-        y: 1094
-        width: 662
-        height: 547
+        x: 660
+        y: 1090
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +293,10 @@ TextureImporter:
       name: KnightAttack1_6
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 1094
-        width: 662
-        height: 547
+        x: 1320
+        y: 1090
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +315,10 @@ TextureImporter:
       name: KnightAttack1_7
       rect:
         serializedVersion: 2
-        x: 1986
-        y: 1094
-        width: 662
-        height: 547
+        x: 1980
+        y: 1090
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,9 +338,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 547
-        width: 662
-        height: 547
+        y: 545
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +359,10 @@ TextureImporter:
       name: KnightAttack1_9
       rect:
         serializedVersion: 2
-        x: 662
-        y: 547
-        width: 662
-        height: 547
+        x: 660
+        y: 545
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +381,10 @@ TextureImporter:
       name: KnightAttack1_10
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 547
-        width: 662
-        height: 547
+        x: 1320
+        y: 545
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +403,10 @@ TextureImporter:
       name: KnightAttack1_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 662
-        height: 547
+        x: 1980
+        y: 545
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,10 +425,10 @@ TextureImporter:
       name: KnightAttack1_12
       rect:
         serializedVersion: 2
-        x: 662
+        x: 0
         y: 0
-        width: 662
-        height: 547
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,10 +447,10 @@ TextureImporter:
       name: KnightAttack1_13
       rect:
         serializedVersion: 2
-        x: 1324
+        x: 660
         y: 0
-        width: 662
-        height: 547
+        width: 660
+        height: 545
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,7 +469,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 643f046840bca7249a6c4e51eb726ae9
+    spriteID: 23df72a41c137534689cc90c83d3d7f8
     internalID: 0
     vertices: []
     indices: 
