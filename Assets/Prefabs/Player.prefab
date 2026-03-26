@@ -305,7 +305,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2519931897921574638
 Transform:
   m_ObjectHideFlags: 0
@@ -471,13 +471,14 @@ GameObject:
   - component: {fileID: 4137449296504361899}
   - component: {fileID: 5711843002668694246}
   - component: {fileID: 5226459777548328377}
+  - component: {fileID: 5130082358767684420}
   m_Layer: 0
   m_Name: Shield
-  m_TagString: Untagged
+  m_TagString: Shield
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2662801691025686098
 Transform:
   m_ObjectHideFlags: 0
@@ -488,7 +489,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.4496, y: 2.4496, z: 2.4496}
+  m_LocalScale: {x: 2.18, y: 2.18, z: 2.18}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 2519931897921574638}
@@ -598,7 +599,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shieldTransform: {fileID: 2662801691025686098}
   heartbeatScript: {fileID: 1599062039088209545}
-  shieldMaxScaleMultiplier: {x: 1.7, y: 1.7}
+  shieldMaxScaleMultiplier: {x: 2, y: 2}
+--- !u!114 &5130082358767684420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6519239107043118549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba9dd4de9942bc409209be229cf4876, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7786588811462164496
 GameObject:
   m_ObjectHideFlags: 0
