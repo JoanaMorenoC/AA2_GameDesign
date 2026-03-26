@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private PlayerAttack attackScript;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private float speed = 5f;
     private Vector2 movement;
@@ -24,7 +25,8 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
+        if (!attackScript.IsAttacking())
+            rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
     }
 
     public Vector2 GetMovement()

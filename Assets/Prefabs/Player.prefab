@@ -364,6 +364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 581fd41fd17b91844b3dd2c25990440d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attackScript: {fileID: 4025079118912708164}
   rb: {fileID: 1004759810048967681}
   speed: 6
 --- !u!114 &7781495860678140647
@@ -396,6 +397,7 @@ MonoBehaviour:
   projectilePrefab: {fileID: 138892597223516013, guid: 48843a067c0b6124a910d9694339cf3b, type: 3}
   shootPoint: {fileID: 4587272673484631550}
   fireRate: 0.3
+  attackDelay: 0.3
   movementScript: {fileID: 8418814475417371236}
   animationsScript: {fileID: 7781495860678140647}
 --- !u!114 &4255428878797629260
@@ -639,7 +641,7 @@ Transform:
   m_GameObject: {fileID: 7786588811462164496}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.78, y: 0.09, z: 0}
+  m_LocalPosition: {x: 1.02, y: 0.339, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
