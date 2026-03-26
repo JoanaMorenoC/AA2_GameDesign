@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerBlock : MonoBehaviour
 {
     [Header("Shield")]
-    [SerializeField] private GameObject shieldObject;
+    [SerializeField] private ShieldSize shield;
 
     [Header("Block Settings")]
     [SerializeField] private float blockDuration = 1.0f;
@@ -39,14 +39,14 @@ public class PlayerBlock : MonoBehaviour
     {
         isBlocking = true;
         blockTimer = 0f;
-        shieldObject.SetActive(true);
+        shield.gameObject.SetActive(true);
         cooldownTimer = blockCooldown;
     }
 
     void EndBlock()
     {
         isBlocking = false;
-        shieldObject.SetActive(false);
+        shield.gameObject.SetActive(false);
         blockTimer = 0f;
     }
 
