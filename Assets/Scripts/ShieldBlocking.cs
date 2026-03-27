@@ -12,7 +12,7 @@ public class ShieldBlocking : MonoBehaviour
             if (collision.gameObject.GetComponent<CurvedProjectile>() != null)
             {
                 playerBlockScript.ResetBlockCooldown();
-
+                SFXManager.Instance.PlayGlobalSound("BreakReproche", 1f);
                 Destroy(collision.gameObject);
             }
         }

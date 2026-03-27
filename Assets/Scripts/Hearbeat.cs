@@ -20,7 +20,10 @@ public class Heartbeat : MonoBehaviour
     public Transform colliderVisual;
 
     private Vector3 initialScale;
+    private float phase = 0f;
+    private float previousPulse = 0f;
     float lastScaleFactor = 1f;
+
 
     void Start()
     {
@@ -29,15 +32,24 @@ public class Heartbeat : MonoBehaviour
         colliderMaxScale = initialColliderSize * 2f;
     }
 
+
     void Update()
     {
         heartRate = Mathf.Clamp(heartRate, minHeartRate, maxHeartRate);
         float t = Mathf.InverseLerp(minHeartRate, maxHeartRate, heartRate);
 
-
         float frequency = heartRate / 60f;
 
-        float pulse = Mathf.Sin(Time.time * frequency * Mathf.PI * 2);
+        phase += Time.deltaTime * frequency * Mathf.PI * 2;
+
+        float pulse = Mathf.Sin(phase);
+
+        if (previousPulse < 0.9f && pulse >= 0.9f)
+        {
+            float volume = Mathf.Lerp(0.2f, 1f, t);
+            SFXManager.Instance.PlayGlobalSound("Heartbeat", volume);
+        }
+        previousPulse = pulse;
 
         float normalizedPulse = (pulse + 1f) / 2f;
 
