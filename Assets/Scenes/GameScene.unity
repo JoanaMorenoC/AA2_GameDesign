@@ -680,6 +680,8 @@ MonoBehaviour:
     audio: {fileID: 8300000, guid: d74757fb35977564ba2fabe99b8a8796, type: 3}
   - name: ShieldSpawn
     audio: {fileID: 8300000, guid: c47b743da2a149746aad3cb99765be66, type: 3}
+  - name: Heartbeat
+    audio: {fileID: 8300000, guid: 0010b3cf8203c8044a8bed33d001e5e5, type: 3}
 --- !u!4 &757344155
 Transform:
   m_ObjectHideFlags: 0
