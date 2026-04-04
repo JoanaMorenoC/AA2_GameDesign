@@ -279,7 +279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d1794e82d7cc7b46bd758bb202528c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 5
+  maxHealth: 100
   heartbeat: {fileID: 1599062039088209545}
   heartRateIncreaseOnHit: 20
   heartRateRecoverySpeed: 10

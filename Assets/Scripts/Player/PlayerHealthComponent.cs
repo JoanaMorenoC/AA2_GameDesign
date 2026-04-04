@@ -1,10 +1,12 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerHealthComponent : MonoBehaviour
 {
     [Header("Health")]
     public int maxHealth = 5;
-    private int currentHealth;
+    private float currentHealth;
+    [SerializeField] private Image healthBar;
 
     [Header("Heartbeat")]
     [SerializeField] private Heartbeat heartbeat;
@@ -29,14 +31,15 @@ public class PlayerHealthComponent : MonoBehaviour
 
         if (other.CompareTag("EnemyAttack"))
         {
-            TakeDamage(1);
+            TakeDamage(2f);
             Destroy(other.gameObject);
         }
     }
 
-    void TakeDamage(int damage)
+    void TakeDamage(float damage)
     {
         currentHealth -= damage;
+        healthBar.fillAmount = currentHealth / 100f;
 
         if (heartbeat != null)
         {
