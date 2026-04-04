@@ -1569,6 +1569,14 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5496809674303106985, guid: bf662757d1e5e194f86ca1dc76540e55, type: 3}
+      propertyPath: phases.Array.data[1].speed
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5496809674303106985, guid: bf662757d1e5e194f86ca1dc76540e55, type: 3}
+      propertyPath: phases.Array.data[2].speed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5496809674303106985, guid: bf662757d1e5e194f86ca1dc76540e55, type: 3}
       propertyPath: phases.Array.data[0].fireRate
       value: 2
       objectReference: {fileID: 0}
