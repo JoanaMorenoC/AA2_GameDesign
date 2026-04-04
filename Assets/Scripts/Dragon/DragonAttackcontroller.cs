@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DragonAttackcontroller : MonoBehaviour
+public class DragonAttackController : MonoBehaviour
 {
     [Header("Projectile")]
     [SerializeField] private GameObject silencePrefab;
@@ -8,8 +8,8 @@ public class DragonAttackcontroller : MonoBehaviour
     [SerializeField] private Transform shootPoint;
 
     [Header("Attack")]
-    [SerializeField] private float fireRate = 1f;
-    [SerializeField] private float specialAttackChance = 0.2f;
+    public float fireRate = 1f;
+    public float specialAttackChance = 0.2f;
 
     private float timer;
 
