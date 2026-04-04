@@ -34,6 +34,7 @@ public class DragonAttackController : MonoBehaviour
         Vector2 dir = Vector2.left;
 
         bubble.GetComponent<TextBubbleProjectile>().Initialize(dir);
+        bubble.GetComponent<TextBubbleProjectile>().enemyAtttack = true;
     }
 
     void ShootCurved()
