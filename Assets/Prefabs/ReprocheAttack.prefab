@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7267027530340465837}
   m_Layer: 0
   m_Name: ReprocheAttack
-  m_TagString: EnemyAttack
+  m_TagString: Reproche
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -183,8 +183,10 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 45a9a4b85c9f04a4f924e68e6940641c, type: 3}
   destroyTime: 5
   speed: 5
-  amplitude: 7
-  frequency: 5
+  minAmplitude: 5
+  maxAmplitude: 8
+  minFrequency: 3
+  maxFrequency: 7
   spriteRenderer: {fileID: 227301576338024857}
   texts:
   - Primera frase

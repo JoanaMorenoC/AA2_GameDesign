@@ -34,6 +34,11 @@ public class PlayerHealthComponent : MonoBehaviour
             TakeDamage(2f);
             Destroy(other.gameObject);
         }
+        else if (other.CompareTag("Reproche"))
+        {
+            TakeDamage(5f);
+            Destroy(other.gameObject);
+        }
     }
 
     void TakeDamage(float damage)
