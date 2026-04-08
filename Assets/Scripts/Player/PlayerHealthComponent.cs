@@ -50,6 +50,8 @@ public class PlayerHealthComponent : MonoBehaviour
 
         lastHitTime = Time.time;
 
+        SFXManager.Instance.PlayGlobalSound("PlayerHurt", 0.2f);
+
         if (currentHealth <= 0)
         {
             Die();

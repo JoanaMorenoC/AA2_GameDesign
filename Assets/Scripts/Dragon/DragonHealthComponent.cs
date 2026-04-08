@@ -65,6 +65,8 @@ public class DragonHealthComponent : MonoBehaviour
         {
             Die();
         }
+
+        SFXManager.Instance.PlayGlobalSound("DragonHurt", 0.1f);
     }
 
     public void Heal(float amount)

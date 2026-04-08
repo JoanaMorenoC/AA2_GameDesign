@@ -1940,6 +1940,10 @@ MonoBehaviour:
     audio: {fileID: 8300000, guid: 0010b3cf8203c8044a8bed33d001e5e5, type: 3}
   - name: Roar
     audio: {fileID: 8300000, guid: 0a907550fde4f8246837e4f5939562ad, type: 3}
+  - name: DragonHurt
+    audio: {fileID: 8300000, guid: 69a658f136c2c564c859eee189b1fce8, type: 3}
+  - name: PlayerHurt
+    audio: {fileID: 8300000, guid: 764f7b4a613291041b0dbf0b67beae24, type: 3}
 --- !u!4 &1948158473
 Transform:
   m_ObjectHideFlags: 0
