@@ -23,4 +23,14 @@ public class SceneController : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+
+    public void GoToVictoryScreen()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void GoToGameOver()
+    {
+        SceneManager.LoadScene(3);
+    }
 }

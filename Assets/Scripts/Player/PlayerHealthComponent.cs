@@ -15,6 +15,8 @@ public class PlayerHealthComponent : MonoBehaviour
 
     private float lastHitTime;
     [SerializeField] private float recoveryDelay = 2f;
+    [SerializeField] private SceneController sceneController;
+
 
     void Start()
     {
@@ -75,6 +77,6 @@ public class PlayerHealthComponent : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("Player muerto");
+        sceneController.GoToGameOver();
     }
 }

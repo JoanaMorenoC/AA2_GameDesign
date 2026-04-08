@@ -21,6 +21,8 @@ public class DragonHealthComponent : MonoBehaviour
     [Header("Debug")]
     [SerializeField] private bool showDebugLogs = true;
 
+
+    [SerializeField] private SceneController sceneController;
     private bool isDead = false;
 
     void Start()
@@ -120,75 +122,9 @@ public class DragonHealthComponent : MonoBehaviour
         DragonAttackController attack = GetComponent<DragonAttackController>();
         if (attack != null)
             attack.enabled = false;
+
+        sceneController.GoToVictoryScreen();
     }
 
-    public float GetCurrentHealth() => currentHealth;
-    public float GetMaxHealth() => maxHealth;
     public float GetHealthPercentage() => currentHealth / maxHealth;
-    public bool IsDead() => isDead;
-
-    public void SetMaxHealth(float newMaxHealth)
-    {
-        maxHealth = newMaxHealth;
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
-        onHealthChanged?.Invoke();
-        onHealthPercentageChanged?.Invoke(GetHealthPercentage());
-    }
-
-    public void SetHealth(float newHealth)
-    {
-        currentHealth = Mathf.Clamp(newHealth, 0, maxHealth);
-        onHealthChanged?.Invoke();
-        onHealthPercentageChanged?.Invoke(GetHealthPercentage());
-
-        if (currentHealth <= 0)
-            Die();
-    }
-
-    public void ResetHealth()
-    {
-        isDead = false;
-        currentHealth = maxHealth;
-
-        if (showDebugLogs)
-            Debug.Log("Health: Health has been reset!");
-
-        onHealthChanged?.Invoke();
-        onHealthPercentageChanged?.Invoke(GetHealthPercentage());
-
-        DragonMovement movement = GetComponent<DragonMovement>();
-        if (movement != null)
-            movement.enabled = true;
-
-        DragonAttackController attack = GetComponent<DragonAttackController>();
-        if (attack != null)
-            attack.enabled = true;
-    }
-
-    public void SyncWithPhaseSystem()
-    {
-        if (dragonFases != null)
-        {
-            float healthPercentage = GetHealthPercentage();
-            int expectedPhase = GetPhaseByHealthPercentage(healthPercentage);
-
-            if (expectedPhase != dragonFases.currentPhase)
-            {
-                dragonFases.InitializePhase(expectedPhase);
-            }
-        }
-    }
-
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.H))
-        {
-            TakeDamage(10f);
-        }
-
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            Heal(10f);
-        }
-    }
 }
