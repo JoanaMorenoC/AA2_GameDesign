@@ -168,10 +168,10 @@ TextureImporter:
       name: KnightDie_0
       rect:
         serializedVersion: 2
-        x: 138
-        y: 1719
-        width: 368
-        height: 286
+        x: 0
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: KnightDie_1
       rect:
         serializedVersion: 2
-        x: 811
-        y: 1728
-        width: 333
-        height: 279
+        x: 662
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: KnightDie_2
       rect:
         serializedVersion: 2
-        x: 1475
-        y: 1736
-        width: 235
-        height: 350
+        x: 1324
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: KnightDie_3
       rect:
         serializedVersion: 2
-        x: 2019
-        y: 1697
-        width: 326
-        height: 165
+        x: 1986
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: KnightDie_4
       rect:
         serializedVersion: 2
-        x: 157
-        y: 1198
-        width: 218
-        height: 365
+        x: 0
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: KnightDie_5
       rect:
         serializedVersion: 2
-        x: 825
-        y: 1206
-        width: 222
-        height: 366
+        x: 662
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: KnightDie_6
       rect:
         serializedVersion: 2
-        x: 1381
-        y: 1213
-        width: 323
-        height: 237
+        x: 1324
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: KnightDie_7
       rect:
         serializedVersion: 2
-        x: 2022
-        y: 1145
-        width: 325
-        height: 149
+        x: 1986
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: KnightDie_8
       rect:
         serializedVersion: 2
-        x: 19
-        y: 614
-        width: 361
-        height: 230
+        x: 0
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: KnightDie_9
       rect:
         serializedVersion: 2
-        x: 690
-        y: 583
-        width: 328
-        height: 230
+        x: 662
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: KnightDie_10
       rect:
         serializedVersion: 2
-        x: 1354
-        y: 594
-        width: 333
-        height: 211
+        x: 1324
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: KnightDie_11
       rect:
         serializedVersion: 2
-        x: 35
-        y: 57
-        width: 341
-        height: 193
+        x: 0
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: KnightDie_12
       rect:
         serializedVersion: 2
-        x: 697
-        y: 59
-        width: 334
-        height: 194
+        x: 662
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: KnightDie_13
       rect:
         serializedVersion: 2
-        x: 1359
-        y: 60
-        width: 335
-        height: 196
+        x: 1324
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,7 +476,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: aeb392c093e38a742af852077f8e2665
     internalID: 0
     vertices: []
     indices: 

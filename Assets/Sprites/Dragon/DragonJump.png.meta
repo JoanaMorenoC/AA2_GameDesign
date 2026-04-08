@@ -186,10 +186,10 @@ TextureImporter:
       name: DragonJump_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 1519
-        width: 289
-        height: 214
+        x: 0
+        y: 1464
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,10 +208,10 @@ TextureImporter:
       name: DragonJump_1
       rect:
         serializedVersion: 2
-        x: 538
-        y: 1519
-        width: 310
-        height: 178
+        x: 523
+        y: 1464
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: DragonJump_2
       rect:
         serializedVersion: 2
-        x: 1053
-        y: 1501
-        width: 320
-        height: 169
+        x: 1046
+        y: 1464
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: DragonJump_3
       rect:
         serializedVersion: 2
-        x: 1579
-        y: 1531
-        width: 292
-        height: 240
+        x: 1569
+        y: 1464
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: DragonJump_4
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1155
-        width: 310
-        height: 174
+        x: 0
+        y: 1098
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: DragonJump_5
       rect:
         serializedVersion: 2
-        x: 551
-        y: 1155
-        width: 290
-        height: 210
+        x: 523
+        y: 1098
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: DragonJump_6
       rect:
         serializedVersion: 2
-        x: 1076
-        y: 1165
-        width: 284
-        height: 215
+        x: 1046
+        y: 1098
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: DragonJump_7
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 1153
-        width: 292
-        height: 227
+        x: 1569
+        y: 1098
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: DragonJump_8
       rect:
         serializedVersion: 2
-        x: 31
-        y: 827
-        width: 274
-        height: 217
+        x: 0
+        y: 732
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: DragonJump_9
       rect:
         serializedVersion: 2
-        x: 553
-        y: 848
-        width: 271
-        height: 218
+        x: 523
+        y: 732
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: DragonJump_10
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 857
-        width: 271
-        height: 219
+        x: 1046
+        y: 732
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: DragonJump_11
       rect:
         serializedVersion: 2
-        x: 1582
-        y: 787
-        width: 295
-        height: 208
+        x: 1569
+        y: 732
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: DragonJump_12
       rect:
         serializedVersion: 2
-        x: 32
-        y: 496
-        width: 269
-        height: 222
+        x: 0
+        y: 366
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: DragonJump_13
       rect:
         serializedVersion: 2
-        x: 559
-        y: 498
-        width: 267
-        height: 226
+        x: 523
+        y: 366
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: DragonJump_14
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 499
-        width: 268
-        height: 226
+        x: 1046
+        y: 366
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: DragonJump_15
       rect:
         serializedVersion: 2
-        x: 1579
-        y: 421
-        width: 301
-        height: 172
+        x: 1569
+        y: 366
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: DragonJump_16
       rect:
         serializedVersion: 2
-        x: 25
-        y: 133
-        width: 277
-        height: 226
+        x: 0
+        y: 0
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: DragonJump_17
       rect:
         serializedVersion: 2
-        x: 541
-        y: 133
-        width: 284
-        height: 222
+        x: 523
+        y: 0
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: DragonJump_18
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 118
-        width: 291
-        height: 221
+        x: 1046
+        y: 0
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: DragonJump_19
       rect:
         serializedVersion: 2
-        x: 1584
-        y: 55
-        width: 299
-        height: 194
+        x: 1569
+        y: 0
+        width: 523
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,7 +626,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d8a6014d84b6e1049938732ead0552b7
     internalID: 0
     vertices: []
     indices: 
