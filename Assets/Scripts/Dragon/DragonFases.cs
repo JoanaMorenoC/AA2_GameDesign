@@ -71,6 +71,7 @@ public class DragonFases : MonoBehaviour
         if (nextPhase < phases.Length)
         {
             InitializePhase(nextPhase);
+            SFXManager.Instance.PlayGlobalSound("Roar", 0.5f);
         }
         else
         {
