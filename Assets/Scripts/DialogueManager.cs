@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class DialogueManager : MonoBehaviour
@@ -12,6 +13,8 @@ public class DialogueManager : MonoBehaviour
         public AudioClip audio;
         public string text;
     }
+
+    [SerializeField] private TextMeshProUGUI reprocheTextUI; // arrastrar en el inspector
 
     [Header("Audio")]
     [SerializeField] AudioSource audioSource;
@@ -65,6 +68,15 @@ public class DialogueManager : MonoBehaviour
         }
 
         currentReproche = RandomNoRepeat(reproches.Count, lastReproche);
+        lastReproche = currentReproche;
+
+        // Mostrar texto del reproche en la UI
+        if (reprocheTextUI != null)
+        {
+            reprocheTextUI.text = reproches[currentReproche].text;
+            reprocheTextUI.enabled = true;
+        }
+
         PlayDialogue(DialogueType.Reproche, currentReproche);
     }
 
@@ -100,6 +112,7 @@ public class DialogueManager : MonoBehaviour
         if (talking) return;
 
         int index = RandomNoRepeat(playerAttacks.Count, lastPlayerAttack);
+        lastPlayerAttack = index;
         PlayDialogue(DialogueType.PlayerAttack, index);
     }
 
@@ -145,6 +158,11 @@ public class DialogueManager : MonoBehaviour
 
         yield return new WaitWhile(() => audioSource.isPlaying);
 
+        if (currentDialogueType == DialogueType.Reproche && reprocheTextUI != null)
+        {
+            reprocheTextUI.enabled = false;
+        }
+
         talking = false;
         currentDialogueType = null;
     }
@@ -155,6 +173,11 @@ public class DialogueManager : MonoBehaviour
             StopCoroutine(currentCoroutine);
 
         audioSource.Stop();
+
+        if (currentDialogueType == DialogueType.Reproche && reprocheTextUI != null)
+        {
+            reprocheTextUI.enabled = false;
+        }
 
         talking = false;
         currentDialogueType = null;

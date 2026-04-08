@@ -372,14 +372,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 4
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -410,7 +410,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -281.9396, y: 0, z: 0, w: 0}
+  m_margin: {x: -118.58676, y: 0, z: -41.74572, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1064,24 +1064,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9d926e6ff18f8344bd9e6dc1c07705d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  reprocheTextUI: {fileID: 461292509}
   audioSource: {fileID: 780522953}
   reproches:
   - audio: {fileID: 8300000, guid: 54e60816ceb53c74b8941e22069d1bd4, type: 3}
-    text: 
+    text: Llegas tarde incluso a tu propia leyenda.
   - audio: {fileID: 8300000, guid: 68261a0269b823748b3c31970796a269, type: 3}
-    text: 
+    text: "Tu armadura brilla m\xE1s que tus ideas."
   - audio: {fileID: 8300000, guid: be1c9d07536c32d4f8465e39fc6529c5, type: 3}
-    text: 
+    text: "Te llaman h\xE9roe por falta de competencia."
   - audio: {fileID: 8300000, guid: 9dac3b3fb857c174f82f469101840e06, type: 3}
-    text: 
+    text: "He visto escuderos con m\xE1s valor que t\xFA."
   - audio: {fileID: 8300000, guid: b996c2bef650c654caa10083144aa0fd, type: 3}
-    text: 
+    text: "\xBFCu\xE1ntas princesas necesitas para sentirte importante?"
   - audio: {fileID: 8300000, guid: e2f8bdf7053567b4587826bcce6b3440, type: 3}
-    text: 
+    text: Tu espada corta menos que tus excusas.
   - audio: {fileID: 8300000, guid: 5ab0bae5a7bd3614386bcf8fda83380c, type: 3}
-    text: 
+    text: No eres valiente, solo imprudente.
   - audio: {fileID: 8300000, guid: 51f927a3da53eaf46bd7a9e083d905f8, type: 3}
-    text: 
+    text: Ni el miedo te toma en serio.
   playerBlocks:
   - audio: {fileID: 8300000, guid: a32672f90dde73745ab7894f5236c6e3, type: 3}
     text: 
