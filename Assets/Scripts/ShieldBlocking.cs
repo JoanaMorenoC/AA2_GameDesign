@@ -7,7 +7,7 @@ public class ShieldBlocking : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("EnemyAttack"))
+        if (collision.CompareTag("Reproche"))
         {
             if (collision.gameObject.GetComponent<CurvedProjectile>() != null)
             {

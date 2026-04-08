@@ -1,6 +1,7 @@
+using System.Collections;
 using UnityEngine;
 
-public class DragonAttackcontroller : MonoBehaviour
+public class DragonAttackController : MonoBehaviour
 {
     [Header("Projectile")]
     [SerializeField] private GameObject silencePrefab;
@@ -8,23 +9,55 @@ public class DragonAttackcontroller : MonoBehaviour
     [SerializeField] private Transform shootPoint;
 
     [Header("Attack")]
-    [SerializeField] private float fireRate = 1f;
-    [SerializeField] private float specialAttackChance = 0.2f;
+    public float fireRate = 1f;
+    public float specialAttackChance = 0.2f;
+
+    [Header("Animation")]
+    [SerializeField] private DragonAnimations animationsScript;
 
     private float timer;
+    private bool isAttacking = false;
+    private bool isSpecialAttack = false;
+
+    void Start()
+    {
+        if (animationsScript == null)
+            animationsScript = GetComponent<DragonAnimations>();
+    }
 
     void Update()
     {
         timer += Time.deltaTime;
 
-        if (timer >= fireRate)
+        if (!isAttacking && timer >= fireRate)
         {
             timer = 0f;
-            if (Random.value < specialAttackChance)
-                ShootCurved();
+            isSpecialAttack = Random.value < specialAttackChance;
+
+            if (isSpecialAttack)
+                StartCoroutine(ShootWithAnimation(ShootCurved, 0.5f));
             else
-                ShootStraight();
+                StartCoroutine(ShootWithAnimation(ShootStraight, 0.3f));
         }
+    }
+
+    IEnumerator ShootWithAnimation(System.Action shootAction, float animationDelay)
+    {
+        isAttacking = true;
+
+        if (animationsScript != null)
+        {
+            if (isSpecialAttack)
+                animationsScript.OnSpecialAttack();
+            else
+                animationsScript.OnAttack();
+        }
+
+        yield return new WaitForSeconds(animationDelay);
+
+        shootAction();
+
+        isAttacking = false;
     }
 
     void ShootStraight()
@@ -34,6 +67,7 @@ public class DragonAttackcontroller : MonoBehaviour
         Vector2 dir = Vector2.left;
 
         bubble.GetComponent<TextBubbleProjectile>().Initialize(dir);
+        bubble.GetComponent<TextBubbleProjectile>().enemyAtttack = true;
     }
 
     void ShootCurved()
@@ -43,5 +77,15 @@ public class DragonAttackcontroller : MonoBehaviour
         Vector2 dir = Vector2.left;
 
         bubble.GetComponent<CurvedProjectile>().Initialize(dir);
+    }
+
+    public bool IsAttacking()
+    {
+        return isAttacking;
+    }
+
+    public bool IsSpecialAttack()
+    {
+        return isSpecialAttack;
     }
 }

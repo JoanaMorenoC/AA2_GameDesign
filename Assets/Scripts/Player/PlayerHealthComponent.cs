@@ -15,6 +15,8 @@ public class PlayerHealthComponent : MonoBehaviour
 
     private float lastHitTime;
     [SerializeField] private float recoveryDelay = 2f;
+    [SerializeField] private SceneController sceneController;
+
 
     void Start()
     {
@@ -32,6 +34,11 @@ public class PlayerHealthComponent : MonoBehaviour
         if (other.CompareTag("EnemyAttack"))
         {
             TakeDamage(2f);
+            Destroy(other.gameObject);
+        }
+        else if (other.CompareTag("Reproche"))
+        {
+            TakeDamage(5f);
             Destroy(other.gameObject);
         }
     }
@@ -70,6 +77,6 @@ public class PlayerHealthComponent : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("Player muerto");
+        sceneController.GoToGameOver();
     }
 }

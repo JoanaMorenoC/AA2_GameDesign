@@ -9,6 +9,8 @@ public class TextBubbleProjectile : MonoBehaviour
     public float destroyTime;
 
     public float speed = 6f;
+    public bool enemyAtttack = false;
+
     private Vector2 direction;
 
     [SerializeField] private SpriteRenderer spriteRenderer;
@@ -30,5 +32,15 @@ public class TextBubbleProjectile : MonoBehaviour
     void Update()
     {
         transform.position += (Vector3)(direction * speed * Time.deltaTime);
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        DragonHealthComponent dragonHealth = other.GetComponent<DragonHealthComponent>();
+        if (dragonHealth != null && !enemyAtttack)
+        {
+            dragonHealth.TakeDamage(3f);
+            Destroy(gameObject);
+        }
     }
 }

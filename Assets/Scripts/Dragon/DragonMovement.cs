@@ -56,4 +56,14 @@ public class DragonMovement : MonoBehaviour
             direction = Random.value > 0.5f ? 1 : -1;
         }
     }
+
+    public bool IsMoving()
+    {
+        return isMoving;
+    }
+
+    public int GetDirection()
+    {
+        return direction;
+    }
 }

@@ -122,6 +122,9 @@ GameObject:
   - component: {fileID: 7878748836168319953}
   - component: {fileID: 4894448474390103940}
   - component: {fileID: 5041533878207264893}
+  - component: {fileID: 5496809674303106985}
+  - component: {fileID: 2352267920005517234}
+  - component: {fileID: 2939618258346089444}
   m_Layer: 0
   m_Name: Dragon
   m_TagString: Untagged
@@ -228,6 +231,86 @@ MonoBehaviour:
   shootPoint: {fileID: 6154063334094942974}
   fireRate: 1
   specialAttackChance: 0.2
+  animationsScript: {fileID: 0}
+--- !u!114 &5496809674303106985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230585988568747615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c6053cbbf7d734fb1cc7d04f8de46a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  phases:
+  - name: Fase 1
+    speed: 1
+    fireRate: 2
+    specialAttackChance: 0
+  - name: Fase 2
+    speed: 2.5
+    fireRate: 1
+    specialAttackChance: 0.2
+  - name: Fase 3
+    speed: 4
+    fireRate: 0.5
+    specialAttackChance: 0.25
+  dragonMovement: {fileID: 4894448474390103940}
+  dragonAttackController: {fileID: 5041533878207264893}
+  currentPhase: 0
+  autoStart: 1
+--- !u!114 &2352267920005517234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230585988568747615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47dd55513110e3b4fae82f7ff942a412, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  currentHealth: 0
+  usePhaseSystem: 1
+  dragonFases: {fileID: 5496809674303106985}
+  phaseThresholds:
+  - 0.66
+  - 0.33
+  onDamageTaken:
+    m_PersistentCalls:
+      m_Calls: []
+  onHealthChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onDeath:
+    m_PersistentCalls:
+      m_Calls: []
+  onHealthPercentageChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  showDebugLogs: 1
+--- !u!114 &2939618258346089444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230585988568747615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63e4d84c14ed22d4bac1cc55a1755a8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 8533889768419232203}
+  spriteRenderer: {fileID: 1173448357849532937}
+  movementScript: {fileID: 4894448474390103940}
+  attackController: {fileID: 5041533878207264893}
+  healthComponent: {fileID: 2352267920005517234}
+  deathAnimationDuration: 2
 --- !u!1 &8860948882359490419
 GameObject:
   m_ObjectHideFlags: 0
