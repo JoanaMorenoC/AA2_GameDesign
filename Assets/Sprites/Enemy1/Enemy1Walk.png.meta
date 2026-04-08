@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: af20ad9c6fc73d24c8b4e1f8cc433ac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6623514956328774639
+    second: Enemy1Walk_0
+  - first:
+      213: 8435367337577583008
+    second: Enemy1Walk_1
+  - first:
+      213: 984981545305715571
+    second: Enemy1Walk_2
+  - first:
+      213: -3224675597504925678
+    second: Enemy1Walk_3
+  - first:
+      213: -8722301942958033196
+    second: Enemy1Walk_4
+  - first:
+      213: -3999514006691824921
+    second: Enemy1Walk_5
+  - first:
+      213: -3846599990480792260
+    second: Enemy1Walk_6
+  - first:
+      213: 7890432374855687438
+    second: Enemy1Walk_7
+  - first:
+      213: -6032326952293465292
+    second: Enemy1Walk_8
+  - first:
+      213: -2056244346547620442
+    second: Enemy1Walk_9
+  - first:
+      213: -2890820799671607644
+    second: Enemy1Walk_10
+  - first:
+      213: 2203232424418339671
+    second: Enemy1Walk_11
+  - first:
+      213: -6184648365040378813
+    second: Enemy1Walk_12
+  - first:
+      213: 8057316741936860378
+    second: Enemy1Walk_13
+  - first:
+      213: -4947629477637870386
+    second: Enemy1Walk_14
+  - first:
+      213: -8906848904121736560
+    second: Enemy1Walk_15
+  - first:
+      213: -6909970500913266946
+    second: Enemy1Walk_16
+  - first:
+      213: -8248823801644373822
+    second: Enemy1Walk_17
+  - first:
+      213: 678985834833348876
+    second: Enemy1Walk_18
+  - first:
+      213: 308813355623667085
+    second: Enemy1Walk_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy1Walk_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1523
+        width: 345
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11459877d3c8414a0800000000000000
+      internalID: -6623514956328774639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1524
+        width: 348
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19e3aa6e1701570800000000000000
+      internalID: 8435367337577583008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1525
+        width: 342
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373334e2f7b5bad00800000000000000
+      internalID: 984981545305715571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1526
+        width: 334
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21039de01a6af33d0800000000000000
+      internalID: -3224675597504925678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_4
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1531
+        width: 310
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6794a789824f680800000000000000
+      internalID: -8722301942958033196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1039
+        width: 325
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3fe4833fde78c0800000000000000
+      internalID: -3999514006691824921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1040
+        width: 312
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c351f5650b12e9ac0800000000000000
+      internalID: -3846599990480792260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1040
+        width: 298
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd38b8072708d60800000000000000
+      internalID: 7890432374855687438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_8
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1038
+        width: 288
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338887f89ed84ca0800000000000000
+      internalID: -6032326952293465292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_9
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1042
+        width: 322
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5bf9849a0c673e0800000000000000
+      internalID: -2056244346547620442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 551
+        width: 282
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae53468ccdb1e7d0800000000000000
+      internalID: -2890820799671607644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 551
+        width: 288
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be31f7734739e10800000000000000
+      internalID: 2203232424418339671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 547
+        width: 288
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c51156417bb2aa0800000000000000
+      internalID: -6184648365040378813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 546
+        width: 288
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc44f523e651df60800000000000000
+      internalID: 8057316741936860378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_14
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 554
+        width: 333
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecca429243d765bb0800000000000000
+      internalID: -4947629477637870386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 292
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0922fb9bc14846480800000000000000
+      internalID: -8906848904121736560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 57
+        width: 296
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef2a4a07ada10a0800000000000000
+      internalID: -6909970500913266946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_17
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 58
+        width: 293
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c82330e47a468d80800000000000000
+      internalID: -8248823801644373822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_18
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 62
+        width: 299
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0983c4f40e3c6900800000000000000
+      internalID: 678985834833348876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1Walk_19
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 63
+        width: 340
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8558db5c10294400800000000000000
+      internalID: 308813355623667085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy1Walk_0: -6623514956328774639
+      Enemy1Walk_1: 8435367337577583008
+      Enemy1Walk_10: -2890820799671607644
+      Enemy1Walk_11: 2203232424418339671
+      Enemy1Walk_12: -6184648365040378813
+      Enemy1Walk_13: 8057316741936860378
+      Enemy1Walk_14: -4947629477637870386
+      Enemy1Walk_15: -8906848904121736560
+      Enemy1Walk_16: -6909970500913266946
+      Enemy1Walk_17: -8248823801644373822
+      Enemy1Walk_18: 678985834833348876
+      Enemy1Walk_19: 308813355623667085
+      Enemy1Walk_2: 984981545305715571
+      Enemy1Walk_3: -3224675597504925678
+      Enemy1Walk_4: -8722301942958033196
+      Enemy1Walk_5: -3999514006691824921
+      Enemy1Walk_6: -3846599990480792260
+      Enemy1Walk_7: 7890432374855687438
+      Enemy1Walk_8: -6032326952293465292
+      Enemy1Walk_9: -2056244346547620442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

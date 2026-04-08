@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 7ff8d4f9cc8b8784db02a12217e2deab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5311512727624497960
+    second: PrincessAttack1_0
+  - first:
+      213: 8088326419972777544
+    second: PrincessAttack1_1
+  - first:
+      213: -4084930460775566740
+    second: PrincessAttack1_2
+  - first:
+      213: -8099825901984726759
+    second: PrincessAttack1_3
+  - first:
+      213: -2216725450052806118
+    second: PrincessAttack1_4
+  - first:
+      213: 5097292825922197207
+    second: PrincessAttack1_5
+  - first:
+      213: 5955782359457432207
+    second: PrincessAttack1_6
+  - first:
+      213: 8423157632353943449
+    second: PrincessAttack1_7
+  - first:
+      213: 4096560364801181211
+    second: PrincessAttack1_8
+  - first:
+      213: -8724497214572817085
+    second: PrincessAttack1_9
+  - first:
+      213: 8413886045167744278
+    second: PrincessAttack1_10
+  - first:
+      213: 2464666644889770699
+    second: PrincessAttack1_11
+  - first:
+      213: -3186528861281474363
+    second: PrincessAttack1_12
+  - first:
+      213: -4039655952156570209
+    second: PrincessAttack1_13
+  - first:
+      213: 7957833592071604296
+    second: PrincessAttack1_14
+  - first:
+      213: 3571553823848532147
+    second: PrincessAttack1_15
+  - first:
+      213: -7114872235458867178
+    second: PrincessAttack1_16
+  - first:
+      213: -1593814698991174520
+    second: PrincessAttack1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrincessAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1563
+        width: 267
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4c9f9d057b946b0800000000000000
+      internalID: -5311512727624497960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1562
+        width: 241
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84662e176028f3070800000000000000
+      internalID: 8088326419972777544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1562
+        width: 243
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62bc4983696f47c0800000000000000
+      internalID: -4084930460775566740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1559
+        width: 190
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91141b1c143a79f80800000000000000
+      internalID: -8099825901984726759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1070
+        width: 217
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ad809a2fb9c31e0800000000000000
+      internalID: -2216725450052806118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1069
+        width: 196
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65d3d81d83db640800000000000000
+      internalID: 5097292825922197207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1069
+        width: 203
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f828ff6308037a250800000000000000
+      internalID: 5955782359457432207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1067
+        width: 352
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb3932d3115e470800000000000000
+      internalID: 8423157632353943449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1215
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164be082f7e9d830800000000000000
+      internalID: 4096560364801181211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1212
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3459089f10c5ce680800000000000000
+      internalID: -8724497214572817085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 577
+        width: 207
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f6d687c024c470800000000000000
+      internalID: 8413886045167744278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 577
+        width: 210
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca98625141443220800000000000000
+      internalID: 2464666644889770699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 575
+        width: 211
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a9c432ec27c3d0800000000000000
+      internalID: -3186528861281474363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 574
+        width: 358
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4ae4805240f7c0800000000000000
+      internalID: -4039655952156570209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 679
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84849155d77ef6e60800000000000000
+      internalID: 7957833592071604296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 350
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80ea6a745b09130800000000000000
+      internalID: 3571553823848532147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 144
+        width: 22
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6105f27e565e24d90800000000000000
+      internalID: -7114872235458867178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 85
+        width: 314
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cb5d4c9f1a1e9e0800000000000000
+      internalID: -1593814698991174520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PrincessAttack1_0: -5311512727624497960
+      PrincessAttack1_1: 8088326419972777544
+      PrincessAttack1_10: 8413886045167744278
+      PrincessAttack1_11: 2464666644889770699
+      PrincessAttack1_12: -3186528861281474363
+      PrincessAttack1_13: -4039655952156570209
+      PrincessAttack1_14: 7957833592071604296
+      PrincessAttack1_15: 3571553823848532147
+      PrincessAttack1_16: -7114872235458867178
+      PrincessAttack1_17: -1593814698991174520
+      PrincessAttack1_2: -4084930460775566740
+      PrincessAttack1_3: -8099825901984726759
+      PrincessAttack1_4: -2216725450052806118
+      PrincessAttack1_5: 5097292825922197207
+      PrincessAttack1_6: 5955782359457432207
+      PrincessAttack1_7: 8423157632353943449
+      PrincessAttack1_8: 4096560364801181211
+      PrincessAttack1_9: -8724497214572817085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

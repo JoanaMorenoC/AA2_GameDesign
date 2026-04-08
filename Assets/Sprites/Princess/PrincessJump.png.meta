@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: cb36c6b019216734e9baf0965d07fc37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1563659765528565944
+    second: PrincessJump_0
+  - first:
+      213: -2081626188143524296
+    second: PrincessJump_1
+  - first:
+      213: -8549536312027062278
+    second: PrincessJump_2
+  - first:
+      213: -7379135685707492427
+    second: PrincessJump_3
+  - first:
+      213: -3246696226892176951
+    second: PrincessJump_4
+  - first:
+      213: 2955268307547458092
+    second: PrincessJump_5
+  - first:
+      213: 6165207492680306210
+    second: PrincessJump_6
+  - first:
+      213: -592613206594096527
+    second: PrincessJump_7
+  - first:
+      213: 750256722548619408
+    second: PrincessJump_8
+  - first:
+      213: -5843213515035918457
+    second: PrincessJump_9
+  - first:
+      213: -1257523073939039505
+    second: PrincessJump_10
+  - first:
+      213: -5558714355491733909
+    second: PrincessJump_11
+  - first:
+      213: -5309029160371504194
+    second: PrincessJump_12
+  - first:
+      213: -2887491721337221897
+    second: PrincessJump_13
+  - first:
+      213: 4054990995130211228
+    second: PrincessJump_14
+  - first:
+      213: -8997458088826053765
+    second: PrincessJump_15
+  - first:
+      213: -2708587479585374276
+    second: PrincessJump_16
+  - first:
+      213: 6235016499714618598
+    second: PrincessJump_17
+  - first:
+      213: 4517182880226736540
+    second: PrincessJump_18
+  - first:
+      213: -6114897117272629545
+    second: PrincessJump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrincessJump_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1565
+        width: 260
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b896e9a54c33b510800000000000000
+      internalID: 1563659765528565944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1566
+        width: 271
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360e84c2049c13e0800000000000000
+      internalID: -2081626188143524296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1566
+        width: 269
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affd2578502f95980800000000000000
+      internalID: -8549536312027062278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1566
+        width: 264
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b31fffa03b089990800000000000000
+      internalID: -7379135685707492427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_4
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1562
+        width: 254
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ad7ebbfa61f2d0800000000000000
+      internalID: -3246696226892176951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1070
+        width: 262
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a06573ed8330920800000000000000
+      internalID: 2955268307547458092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1076
+        width: 260
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e49c7cc873f8550800000000000000
+      internalID: 6165207492680306210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1100
+        width: 259
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172f0cbad6d96c7f0800000000000000
+      internalID: -592613206594096527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_8
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1120
+        width: 262
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098fbdd9382796a00800000000000000
+      internalID: 750256722548619408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_9
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1072
+        width: 258
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fb589444cb8eea0800000000000000
+      internalID: -5843213515035918457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 648
+        width: 270
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea91094d616c8ee0800000000000000
+      internalID: -1257523073939039505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 663
+        width: 280
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6efc09beba7bd2b0800000000000000
+      internalID: -5558714355491733909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_12
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 674
+        width: 291
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbbdd96b1a8256b0800000000000000
+      internalID: -5309029160371504194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_13
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 661
+        width: 294
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc40d9f3919de7d0800000000000000
+      internalID: -2887491721337221897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_14
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 581
+        width: 261
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bd42863d8364830800000000000000
+      internalID: 4054990995130211228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 155
+        width: 291
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bde0ee98b922380800000000000000
+      internalID: -8997458088826053765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 139
+        width: 280
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf3e3cb90a296ad0800000000000000
+      internalID: -2708587479585374276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 118
+        width: 271
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e47032d87a378650800000000000000
+      internalID: 6235016499714618598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_18
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 92
+        width: 265
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f36185e140be30800000000000000
+      internalID: 4517182880226736540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessJump_19
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 90
+        width: 262
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de97ee4875832ba0800000000000000
+      internalID: -6114897117272629545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PrincessJump_0: 1563659765528565944
+      PrincessJump_1: -2081626188143524296
+      PrincessJump_10: -1257523073939039505
+      PrincessJump_11: -5558714355491733909
+      PrincessJump_12: -5309029160371504194
+      PrincessJump_13: -2887491721337221897
+      PrincessJump_14: 4054990995130211228
+      PrincessJump_15: -8997458088826053765
+      PrincessJump_16: -2708587479585374276
+      PrincessJump_17: 6235016499714618598
+      PrincessJump_18: 4517182880226736540
+      PrincessJump_19: -6114897117272629545
+      PrincessJump_2: -8549536312027062278
+      PrincessJump_3: -7379135685707492427
+      PrincessJump_4: -3246696226892176951
+      PrincessJump_5: 2955268307547458092
+      PrincessJump_6: 6165207492680306210
+      PrincessJump_7: -592613206594096527
+      PrincessJump_8: 750256722548619408
+      PrincessJump_9: -5843213515035918457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
