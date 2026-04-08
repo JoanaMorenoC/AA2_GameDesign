@@ -1,9 +1,11 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerBlock : MonoBehaviour
 {
     [Header("Shield")]
     [SerializeField] private ShieldSize shield;
+    [SerializeField] private Image shieldIndicator;
 
     [Header("Block Settings")]
     [SerializeField] private float blockDuration = 1.0f;
@@ -23,6 +25,8 @@ public class PlayerBlock : MonoBehaviour
                 EndBlock();
             }
         }
+
+        shieldIndicator.enabled = cooldownTimer <= 0f;
 
         if (cooldownTimer > 0f)
         {
