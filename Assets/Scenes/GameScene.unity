@@ -1072,6 +1072,16 @@ MonoBehaviour:
     text: 
   - audio: {fileID: 8300000, guid: be1c9d07536c32d4f8465e39fc6529c5, type: 3}
     text: 
+  - audio: {fileID: 8300000, guid: 9dac3b3fb857c174f82f469101840e06, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: b996c2bef650c654caa10083144aa0fd, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: e2f8bdf7053567b4587826bcce6b3440, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 5ab0bae5a7bd3614386bcf8fda83380c, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 51f927a3da53eaf46bd7a9e083d905f8, type: 3}
+    text: 
   playerBlocks:
   - audio: {fileID: 8300000, guid: a32672f90dde73745ab7894f5236c6e3, type: 3}
     text: 
@@ -1079,12 +1089,36 @@ MonoBehaviour:
     text: 
   - audio: {fileID: 8300000, guid: 7b3b1eb999b3eda4fafcd17345ac1245, type: 3}
     text: 
+  - audio: {fileID: 8300000, guid: 42dc0be446fac1445a2f2cf352c262e0, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 19b1f914daea4de4a9b1c3baaa274d01, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 2bc9a008a8000b64684aee68a48e6aa7, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: e600c7995b4d3874a8069ef81ebfd66d, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 5e0df1a0fe1c22640b715f33f535f00c, type: 3}
+    text: 
   playerAttacks:
   - audio: {fileID: 8300000, guid: 2059123575382844bb139e1991495962, type: 3}
     text: 
   - audio: {fileID: 8300000, guid: f88049383e3713d4686627d9e0e0fec1, type: 3}
     text: 
   - audio: {fileID: 8300000, guid: c573ce4866e449c4f8141b67cd901e96, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 9d84497d548fe0c4186b673cb32edfcf, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 3a927c9e22f8fd945bbd5ac50f185961, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: c0fb96201da2b8a499c72b4c0ba34c0e, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 14ab5b0b809f46949bffdb730623f5f8, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: fd8ff494820e8394ab48a9c33acedfbf, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: d68a2cdfee3dd294d85cd390cdee5e1c, type: 3}
+    text: 
+  - audio: {fileID: 8300000, guid: 273301bc645a1184bb654096fcc4c9c6, type: 3}
     text: 
 --- !u!4 &780522952
 Transform:

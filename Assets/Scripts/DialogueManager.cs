@@ -21,6 +21,10 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] List<Dialogue> playerBlocks;
     [SerializeField] List<Dialogue> playerAttacks;
 
+    private int lastReproche = -1;
+    private int lastPlayerAttack = -1;
+    private int lastPlayerBlock = -1;
+
     private int currentReproche = -1;
 
     bool talking = false;
@@ -60,7 +64,7 @@ public class DialogueManager : MonoBehaviour
             return;
         }
 
-        currentReproche = Random.Range(0, reproches.Count);
+        currentReproche = RandomNoRepeat(reproches.Count, lastReproche);
         PlayDialogue(DialogueType.Reproche, currentReproche);
     }
 
@@ -95,7 +99,7 @@ public class DialogueManager : MonoBehaviour
         // No interrumpe nada
         if (talking) return;
 
-        int index = Random.Range(0, playerAttacks.Count);
+        int index = RandomNoRepeat(playerAttacks.Count, lastPlayerAttack);
         PlayDialogue(DialogueType.PlayerAttack, index);
     }
 
@@ -154,5 +158,18 @@ public class DialogueManager : MonoBehaviour
 
         talking = false;
         currentDialogueType = null;
+    }
+
+    private int RandomNoRepeat(int count, int lastIndex)
+    {
+        if (count <= 1) return 0; // Si solo hay uno, devuelve 0
+
+        int index;
+        do
+        {
+            index = Random.Range(0, count);
+        } while (index == lastIndex);
+
+        return index;
     }
 }
