@@ -1,8 +1,11 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
+    public static event Action OnPlayerAttack;
+
     [Header("Projectile")]
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private Transform shootPoint;
@@ -36,6 +39,8 @@ public class PlayerAttack : MonoBehaviour
         Vector2 dir = movementScript.GetLookDirection();
 
         proj.GetComponent<TextBubbleProjectile>().Initialize(dir);
+        
+        OnPlayerAttack?.Invoke();
     }
 
     IEnumerator ShootWithDelay()

@@ -1,10 +1,9 @@
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 
 public class CurvedProjectile : MonoBehaviour
 {
-    public List<Sprite> textBubbles;
+    public List<Sprite> textBubbles;   // imágenes para la burbuja
     public float destroyTime;
 
     public float speed = 5f;
@@ -12,7 +11,7 @@ public class CurvedProjectile : MonoBehaviour
     private float amplitude;
     public float minAmplitude = 5f;
     public float maxAmplitude = 8f;
-    
+
     private float frequency;
     public float minFrequency = 3f;
     public float maxFrequency = 7f;
@@ -22,22 +21,15 @@ public class CurvedProjectile : MonoBehaviour
 
     [SerializeField] private SpriteRenderer spriteRenderer;
 
-
-    public List<string> texts;
-    private TextMeshProUGUI txt;
-
     void Start()
     {
-        int randomTextBubble = Random.Range(0, textBubbles.Count);
+        if (textBubbles.Count > 0)
+        {
+            int randomTextBubble = Random.Range(0, textBubbles.Count);
+            spriteRenderer.sprite = textBubbles[randomTextBubble];
+        }
 
-        spriteRenderer.sprite = textBubbles[randomTextBubble];
         Destroy(gameObject, destroyTime);
-
-        txt = GameObject.FindGameObjectWithTag("Reproche").GetComponent<TextMeshProUGUI>();
-        txt.enabled = true;
-
-        int randomText = Random.Range(0, texts.Count);
-        txt.text = texts[randomText];
 
         amplitude = Random.Range(minAmplitude, maxAmplitude);
         frequency = Random.Range(minFrequency, maxFrequency);
@@ -55,8 +47,6 @@ public class CurvedProjectile : MonoBehaviour
         Vector2 forward = direction * speed * Time.deltaTime;
 
         Vector2 perpendicular = new Vector2(-direction.y, direction.x);
-
-
 
         Vector2 offset = perpendicular * Mathf.Sin(time * frequency) * amplitude * Time.deltaTime;
 

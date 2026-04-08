@@ -1,8 +1,11 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
 public class DragonAttackController : MonoBehaviour
 {
+    public static event Action OnDragonReproche;
+
     [Header("Projectile")]
     [SerializeField] private GameObject silencePrefab;
     [SerializeField] private GameObject curvedPrefab;
@@ -32,7 +35,7 @@ public class DragonAttackController : MonoBehaviour
         if (!isAttacking && timer >= fireRate)
         {
             timer = 0f;
-            isSpecialAttack = Random.value < specialAttackChance;
+            isSpecialAttack = UnityEngine.Random.value < specialAttackChance;
 
             if (isSpecialAttack)
                 StartCoroutine(ShootWithAnimation(ShootCurved, 0.5f));
@@ -56,6 +59,9 @@ public class DragonAttackController : MonoBehaviour
         yield return new WaitForSeconds(animationDelay);
 
         shootAction();
+
+        if (isSpecialAttack)
+            OnDragonReproche?.Invoke();
 
         isAttacking = false;
     }
