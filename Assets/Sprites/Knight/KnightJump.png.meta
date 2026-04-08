@@ -246,10 +246,10 @@ TextureImporter:
       name: KnightJump_0
       rect:
         serializedVersion: 2
-        x: 129
-        y: 3362
-        width: 378
-        height: 286
+        x: 0
+        y: 3282
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: KnightJump_1
       rect:
         serializedVersion: 2
-        x: 786
-        y: 3362
-        width: 391
-        height: 257
+        x: 662
+        y: 3282
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: KnightJump_2
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 3361
-        width: 397
-        height: 231
+        x: 1324
+        y: 3282
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +312,10 @@ TextureImporter:
       name: KnightJump_3
       rect:
         serializedVersion: 2
-        x: 2101
-        y: 3362
-        width: 389
-        height: 260
+        x: 1986
+        y: 3282
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,10 +334,10 @@ TextureImporter:
       name: KnightJump_4
       rect:
         serializedVersion: 2
-        x: 2760
-        y: 3362
-        width: 377
-        height: 292
+        x: 2648
+        y: 3282
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +356,10 @@ TextureImporter:
       name: KnightJump_5
       rect:
         serializedVersion: 2
-        x: 3439
-        y: 3362
-        width: 378
-        height: 286
+        x: 3310
+        y: 3282
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,10 +378,10 @@ TextureImporter:
       name: KnightJump_6
       rect:
         serializedVersion: 2
-        x: 110
-        y: 2819
-        width: 360
-        height: 323
+        x: 0
+        y: 2735
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,10 +400,10 @@ TextureImporter:
       name: KnightJump_7
       rect:
         serializedVersion: 2
-        x: 769
-        y: 2841
-        width: 338
-        height: 355
+        x: 662
+        y: 2735
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,10 +422,10 @@ TextureImporter:
       name: KnightJump_8
       rect:
         serializedVersion: 2
-        x: 1429
-        y: 2856
-        width: 320
-        height: 380
+        x: 1324
+        y: 2735
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,10 +444,10 @@ TextureImporter:
       name: KnightJump_9
       rect:
         serializedVersion: 2
-        x: 2091
-        y: 2868
-        width: 315
-        height: 387
+        x: 1986
+        y: 2735
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,10 +466,10 @@ TextureImporter:
       name: KnightJump_10
       rect:
         serializedVersion: 2
-        x: 2753
-        y: 2876
-        width: 307
-        height: 390
+        x: 2648
+        y: 2735
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: KnightJump_11
       rect:
         serializedVersion: 2
-        x: 3439
-        y: 2815
-        width: 378
-        height: 286
+        x: 3310
+        y: 2735
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,10 +510,10 @@ TextureImporter:
       name: KnightJump_12
       rect:
         serializedVersion: 2
-        x: 102
-        y: 2333
-        width: 303
-        height: 389
+        x: 0
+        y: 2188
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,10 +532,10 @@ TextureImporter:
       name: KnightJump_13
       rect:
         serializedVersion: 2
-        x: 762
-        y: 2335
-        width: 303
-        height: 386
+        x: 662
+        y: 2188
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: KnightJump_14
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 2329
-        width: 301
-        height: 382
+        x: 1324
+        y: 2188
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -576,10 +576,10 @@ TextureImporter:
       name: KnightJump_15
       rect:
         serializedVersion: 2
-        x: 2099
-        y: 2320
-        width: 306
-        height: 363
+        x: 1986
+        y: 2188
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,10 +598,10 @@ TextureImporter:
       name: KnightJump_16
       rect:
         serializedVersion: 2
-        x: 2762
-        y: 2306
-        width: 328
-        height: 341
+        x: 2648
+        y: 2188
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -620,10 +620,10 @@ TextureImporter:
       name: KnightJump_17
       rect:
         serializedVersion: 2
-        x: 3439
-        y: 2268
-        width: 378
-        height: 286
+        x: 3310
+        y: 2188
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -642,10 +642,10 @@ TextureImporter:
       name: KnightJump_18
       rect:
         serializedVersion: 2
-        x: 115
-        y: 1719
-        width: 323
-        height: 347
+        x: 0
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,10 +664,10 @@ TextureImporter:
       name: KnightJump_19
       rect:
         serializedVersion: 2
-        x: 779
-        y: 1721
-        width: 313
-        height: 322
+        x: 662
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -686,10 +686,10 @@ TextureImporter:
       name: KnightJump_20
       rect:
         serializedVersion: 2
-        x: 1443
-        y: 1721
-        width: 341
-        height: 273
+        x: 1324
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,10 +708,10 @@ TextureImporter:
       name: KnightJump_21
       rect:
         serializedVersion: 2
-        x: 2109
-        y: 1714
-        width: 370
-        height: 259
+        x: 1986
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -730,10 +730,10 @@ TextureImporter:
       name: KnightJump_22
       rect:
         serializedVersion: 2
-        x: 2774
-        y: 1721
-        width: 380
-        height: 263
+        x: 2648
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -752,10 +752,10 @@ TextureImporter:
       name: KnightJump_23
       rect:
         serializedVersion: 2
-        x: 3439
-        y: 1721
-        width: 378
-        height: 286
+        x: 3310
+        y: 1641
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,10 +774,10 @@ TextureImporter:
       name: KnightJump_24
       rect:
         serializedVersion: 2
-        x: 129
-        y: 1174
-        width: 378
-        height: 286
+        x: 0
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,10 +796,10 @@ TextureImporter:
       name: KnightJump_25
       rect:
         serializedVersion: 2
-        x: 791
-        y: 1174
-        width: 378
-        height: 286
+        x: 662
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -818,10 +818,10 @@ TextureImporter:
       name: KnightJump_26
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 1174
-        width: 378
-        height: 286
+        x: 1324
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,10 +840,10 @@ TextureImporter:
       name: KnightJump_27
       rect:
         serializedVersion: 2
-        x: 2115
-        y: 1174
-        width: 378
-        height: 286
+        x: 1986
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -862,10 +862,10 @@ TextureImporter:
       name: KnightJump_28
       rect:
         serializedVersion: 2
-        x: 2777
-        y: 1174
-        width: 378
-        height: 286
+        x: 2648
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,10 +884,10 @@ TextureImporter:
       name: KnightJump_29
       rect:
         serializedVersion: 2
-        x: 3439
-        y: 1174
-        width: 378
-        height: 286
+        x: 3310
+        y: 1094
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -906,10 +906,10 @@ TextureImporter:
       name: KnightJump_30
       rect:
         serializedVersion: 2
-        x: 129
-        y: 627
-        width: 378
-        height: 286
+        x: 0
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -928,10 +928,10 @@ TextureImporter:
       name: KnightJump_31
       rect:
         serializedVersion: 2
-        x: 791
-        y: 627
-        width: 378
-        height: 286
+        x: 662
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -950,10 +950,10 @@ TextureImporter:
       name: KnightJump_32
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 627
-        width: 378
-        height: 286
+        x: 1324
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,10 +972,10 @@ TextureImporter:
       name: KnightJump_33
       rect:
         serializedVersion: 2
-        x: 2115
-        y: 627
-        width: 378
-        height: 286
+        x: 1986
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,10 +994,10 @@ TextureImporter:
       name: KnightJump_34
       rect:
         serializedVersion: 2
-        x: 2777
-        y: 627
-        width: 378
-        height: 286
+        x: 2648
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: KnightJump_35
       rect:
         serializedVersion: 2
-        x: 3439
-        y: 627
-        width: 378
-        height: 286
+        x: 3310
+        y: 547
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1038,10 +1038,10 @@ TextureImporter:
       name: KnightJump_36
       rect:
         serializedVersion: 2
-        x: 129
-        y: 80
-        width: 378
-        height: 286
+        x: 0
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1060,10 +1060,10 @@ TextureImporter:
       name: KnightJump_37
       rect:
         serializedVersion: 2
-        x: 791
-        y: 80
-        width: 378
-        height: 286
+        x: 662
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1082,10 +1082,10 @@ TextureImporter:
       name: KnightJump_38
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 80
-        width: 378
-        height: 286
+        x: 1324
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1104,10 +1104,10 @@ TextureImporter:
       name: KnightJump_39
       rect:
         serializedVersion: 2
-        x: 2115
-        y: 80
-        width: 378
-        height: 286
+        x: 1986
+        y: 0
+        width: 662
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,7 +1126,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 938607a5269cea44c8285817e9384fde
     internalID: 0
     vertices: []
     indices: 
