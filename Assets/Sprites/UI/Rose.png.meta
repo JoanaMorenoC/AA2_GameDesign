@@ -1,49 +1,40 @@
 fileFormatVersion: 2
-guid: b8a87d4236bc82747b8ef3ef1b4a893c
+guid: d8746bbbac9bdf746bf38348a653b116
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3324067154331046027
-    second: KnightDie_0
+      213: 5614637178320563061
+    second: Rose_0
   - first:
-      213: 5215977294776851038
-    second: KnightDie_1
+      213: 5910984749590454971
+    second: Rose_1
   - first:
-      213: 6635116027839153022
-    second: KnightDie_2
+      213: -2326384682445370838
+    second: Rose_2
   - first:
-      213: -355087683818576473
-    second: KnightDie_3
+      213: -2486830211712430900
+    second: Rose_3
   - first:
-      213: -5911915569834484922
-    second: KnightDie_4
+      213: -8867381439413725629
+    second: Rose_4
   - first:
-      213: 7102958323080214642
-    second: KnightDie_5
+      213: 8890482793539167604
+    second: Rose_5
   - first:
-      213: -1032383681565637197
-    second: KnightDie_6
+      213: -1313780741316489063
+    second: Rose_6
   - first:
-      213: -9068582557762254296
-    second: KnightDie_7
+      213: -9182509851554270884
+    second: Rose_7
   - first:
-      213: 7117362080541935509
-    second: KnightDie_8
+      213: 7409627266345326663
+    second: Rose_8
   - first:
-      213: 3747429212387136609
-    second: KnightDie_9
+      213: -1789248719242714950
+    second: Rose_9
   - first:
-      213: 3347730006516558370
-    second: KnightDie_10
-  - first:
-      213: 177172973039210780
-    second: KnightDie_11
-  - first:
-      213: -4559003353057939659
-    second: KnightDie_12
-  - first:
-      213: 4450428714663927247
-    second: KnightDie_13
+      213: 6529357393037691757
+    second: Rose_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -85,7 +76,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -111,7 +102,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -135,43 +126,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KnightDie_0
+      name: Rose_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1641
-        width: 662
-        height: 547
+        x: 738
+        y: 1479
+        width: 170
+        height: 377
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8012771775712e20800000000000000
-      internalID: 3324067154331046027
+      spriteID: 57baf7c14c23bed40800000000000000
+      internalID: 5614637178320563061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_1
+      name: Rose_1
       rect:
         serializedVersion: 2
-        x: 662
-        y: 1641
-        width: 662
-        height: 547
+        x: 835
+        y: 1482
+        width: 425
+        height: 355
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5a5da3d6bfd26840800000000000000
-      internalID: 5215977294776851038
+      spriteID: bb22710ef49080250800000000000000
+      internalID: 5910984749590454971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_2
+      name: Rose_2
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 1641
-        width: 662
-        height: 547
+        x: 913
+        y: 1816
+        width: 224
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e738ada7fdaa41c50800000000000000
-      internalID: 6635116027839153022
+      spriteID: a2a0feff47507bfd0800000000000000
+      internalID: -2326384682445370838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_3
+      name: Rose_3
       rect:
         serializedVersion: 2
-        x: 1986
-        y: 1641
-        width: 662
-        height: 547
+        x: 626
+        y: 1492
+        width: 158
+        height: 199
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a5a0e502a9721bf0800000000000000
-      internalID: -355087683818576473
+      spriteID: ccccb2629110d7dd0800000000000000
+      internalID: -2486830211712430900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_4
+      name: Rose_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1094
-        width: 662
-        height: 547
+        x: 629
+        y: 1286
+        width: 292
+        height: 264
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +233,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64b1ae5ac18a4fda0800000000000000
-      internalID: -5911915569834484922
+      spriteID: 3465adfef8bb0f480800000000000000
+      internalID: -8867381439413725629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_5
+      name: Rose_5
       rect:
         serializedVersion: 2
-        x: 662
-        y: 1094
-        width: 662
-        height: 547
+        x: 733
+        y: 1412
+        width: 410
+        height: 109
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 278b99536f6c29260800000000000000
-      internalID: 7102958323080214642
+      spriteID: 475ef963ff6516b70800000000000000
+      internalID: 8890482793539167604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_6
+      name: Rose_6
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 1094
-        width: 662
-        height: 547
+        x: 842
+        y: 1312
+        width: 335
+        height: 209
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b5ce5ce28c3ca1f0800000000000000
-      internalID: -1032383681565637197
+      spriteID: 990d411606384cde0800000000000000
+      internalID: -1313780741316489063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_7
+      name: Rose_7
       rect:
         serializedVersion: 2
-        x: 1986
-        y: 1094
-        width: 662
-        height: 547
+        x: 851
+        y: 1445
+        width: 261
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82a074c063ce52280800000000000000
-      internalID: -9068582557762254296
+      spriteID: c513597e0fb219080800000000000000
+      internalID: -9182509851554270884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_8
+      name: Rose_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 547
-        width: 662
-        height: 547
+        x: 1227
+        y: 1488
+        width: 138
+        height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59789845a13f5c260800000000000000
-      internalID: 7117362080541935509
+      spriteID: 748df88adb844d660800000000000000
+      internalID: 7409627266345326663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_9
+      name: Rose_9
       rect:
         serializedVersion: 2
-        x: 662
-        y: 547
-        width: 662
-        height: 547
+        x: 781
+        y: 1155
+        width: 177
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +343,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 164d141930b810430800000000000000
-      internalID: 3747429212387136609
+      spriteID: ab027ba05cf4b27e0800000000000000
+      internalID: -1789248719242714950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KnightDie_10
+      name: Rose_10
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 547
-        width: 662
-        height: 547
+        x: 811
+        y: 86
+        width: 474
+        height: 1403
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,74 +365,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22ae55234b6857e20800000000000000
-      internalID: 3347730006516558370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KnightDie_11
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 662
-        height: 547
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c115dc951e1757200800000000000000
-      internalID: 177172973039210780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KnightDie_12
-      rect:
-        serializedVersion: 2
-        x: 662
-        y: 0
-        width: 662
-        height: 547
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53faa23ea9a2bb0c0800000000000000
-      internalID: -4559003353057939659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KnightDie_13
-      rect:
-        serializedVersion: 2
-        x: 1324
-        y: 0
-        width: 662
-        height: 547
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcdddbb265913cd30800000000000000
-      internalID: 4450428714663927247
+      spriteID: d6b059774ffec9a50800000000000000
+      internalID: 6529357393037691757
       vertices: []
       indices: 
       edges: []
@@ -476,7 +375,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: aeb392c093e38a742af852077f8e2665
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -486,20 +385,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      KnightDie_0: 3324067154331046027
-      KnightDie_1: 5215977294776851038
-      KnightDie_10: 3347730006516558370
-      KnightDie_11: 177172973039210780
-      KnightDie_12: -4559003353057939659
-      KnightDie_13: 4450428714663927247
-      KnightDie_2: 6635116027839153022
-      KnightDie_3: -355087683818576473
-      KnightDie_4: -5911915569834484922
-      KnightDie_5: 7102958323080214642
-      KnightDie_6: -1032383681565637197
-      KnightDie_7: -9068582557762254296
-      KnightDie_8: 7117362080541935509
-      KnightDie_9: 3747429212387136609
+      Rose_0: 5614637178320563061
+      Rose_1: 5910984749590454971
+      Rose_10: 6529357393037691757
+      Rose_2: -2326384682445370838
+      Rose_3: -2486830211712430900
+      Rose_4: -8867381439413725629
+      Rose_5: 8890482793539167604
+      Rose_6: -1313780741316489063
+      Rose_7: -9182509851554270884
+      Rose_8: 7409627266345326663
+      Rose_9: -1789248719242714950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
